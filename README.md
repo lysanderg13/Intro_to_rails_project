@@ -24,6 +24,8 @@ Things you may want to cover:
 * ...
 
 * testing out commits
+
+* Adding lysander-dev branch
 # Intro_to_rails_project
 
 
