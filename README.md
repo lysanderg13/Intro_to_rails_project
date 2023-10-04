@@ -22,4 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* testing out commits
 # Intro_to_rails_project
+
+
+
