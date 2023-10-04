@@ -30,5 +30,7 @@ Things you may want to cover:
 * Trying out commit on dev branch plz work thanks
 # Intro_to_rails_project
 
+* JOSIAH'S BRANCH
+
 
 
