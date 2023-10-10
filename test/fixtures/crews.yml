@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  roman_name: MyString
+  total_bounty: MyString
+  number_of_members: MyString
+  status: MyString
+
+two:
+  name: MyString
+  roman_name: MyString
+  total_bounty: MyString
+  number_of_members: MyString
+  status: MyString
