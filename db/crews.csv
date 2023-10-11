@@ -1,0 +1,150 @@
+crew_id,name,roman_name,total_bounty,number_of_members,status
+1,The Straw Hat Crew,Mugiwara no Ichimi,"3,161,000,100",10,active
+2,The Roux crew,Akagami Kaizokudan,"4,142,900,000",10,active
+3,The Alvida crew,Arubida Kaizokudan,"5,000,000",5,active
+4,The Clown Crew,Bagī Kaizokudan,"20,000,000",8,active
+5,The Roger Pirates crew,Rojā Kaizoku Dan,"5,564,800,000",30,dissolved
+6,Captain Usopp's crew,Usoppu Kaizokudan,"200,000,000",4,dissolved
+7,The Black Cat Crew,Kuroneko Kaizoku Dan,"32,000,000",5,unknown
+8,Don Krieg's Pirate Armada,Kuriiku Kaizoku Kantai,"29,000,000",6,unknown
+9,The Cooks' Crew,Kukku Kaizokudan,unknown,1,dissolved
+10,Arlong's crew,Aron Ichimi,42.5000.000,10,unknown
+11,The Pirates Yes crew,Iesu Kaizokudan,"3,000,000",3,dissolved
+12,The crew of the Rumbar,Runbā Kaizoku-dan,"33,000,000",5,dissolved
+13,The Giants crew,Kyo Hē Kaizoku-dan,"200,000,000",6,dissolved
+14,The Bliking crew,Burikingu Kaizokudan,unknown,,unknown
+15,The Tulip Crew,Chūrippu Kaizokudan,unknown,,unknown
+16,Whitebeard's Crew,Shirohige Kaizokudan,"7,480,000,000",1600,unknown
+17,Primate League,Saruyama Rengō,"84,000,000",4,unknown
+18,The Hakahoka crew,Hokahoka Kaizokudan,unknown,unknown,unknown
+19,the new age crew,Beramī Kaizokudan,"93,000,000",9,dissolved
+20,Roshio's crew,Roshio Kaizokudan,"42,000,000",4,unknown
+21,Don Quixote's crew,Donkihōte Kaizokudan,"1,113,000,000",23,inactive
+22,Blackbeard's Crew,Kurohige Kaizokudan,"2,445,800,000",10,active
+23,The Fanged Toad crew,Kiba Gaeru Kaizokudan,unknown,unknown,unknown
+24,Foxy's Crew,Fokushi Kaizokudan,"24,000,000",500,active
+25,The Big Helmets crew,Ō Kabuto Kaizokudan,"36,000,000",unknown,unknown
+26,The Sun Pirates crew,Taiyō no Kaizokudan,unknown,17,active
+27,Space Pirate,Uchu Kaizoku,unknown,unknown,unknown
+28,Thriller Bark,Surira Bāku,unknown,unknown,unknown
+29,The Rolling crew,Rōringu Kaizokudan,unknown,3,unknown
+30,The Marquereaux crew,Makuro Ichimi,unknown,3,unknown
+31,The Candy Crew,Kyandi Kaizokudan,unknown,unknown,dissolved
+32,The Hearth crew,Hāto no Kaizokudan,"500,000,000",11,active
+33,Kid's Crew,Kiddo Kaizokudan,"670,000,000",22,active
+34,Hawkins' Crew,Hōkinsu Kaizokudan,"320,000,000",6,active
+35,Drake's Crew,Dorēku Kaizokudan,"222,000,000",4,unknown
+36,The On-Air crew,On Ea Kaizokudan,"350,000,000",10,active
+37,Bonney's crew,Bonī Kaizokudan,"140,000,000",7,unknown
+38,The Fire Tank crew,Faia Tanku Kaizokudan,"485,000,000",7,active
+39,The Depraved Monks Crew,Hakaisō Kaizokudan,"108,000,000",5,active
+40,The Acumates crew,Akumeito Kaizokudan,"60,000,000",unknown,inactive
+41,The Kuja Pirates crew,Kuja Kaizokudan,"160,000,000",14,active
+42,The Spade Crew,Supēdo Kaizokudan,"550,000,000",20,unknown
+43,Brownbeard's Crew,Chahige Kaizokudan,"80,060,000",8,unknown
+44,The Hundred Beasts Crew,Hyakuju Kaizokudan,"11,179,100,000",100,active
+45,The crew of the Golden Lion,Kinjishi Kaizokudan,unknown,unknown,unknown
+46,The Bluejam crew,Burūjamu Kaizoku-dan,"17,700,000",9,unknown
+47,The ASL crew,,none,3,inactive
+48,Fake Straw Hat Crew,Nise Mugiwara no Ichimi,"26,000,000",8,unknown
+49,Caribou's crew,Karibū Kaizokudan,"400,000,000",4,unknown
+50,The New Fishmen Crew,Shin Gyojin Kaizokudan,unknown,10,unknown
+51,The Flying Pirates Crew,Furaingu Kaizokudan,unknown,5,unknown
+52,Gyro's crew,Jairo Kaizokudan,"73,000,000",unknown,arrested
+53,Big Mom's Crew,Biggu Mamu Kaizokudan,"11,121,500,000",> 85,active
+54,The Expedition crew,Bagīzu Deribarī,unknown,12,active
+55,The Magnificent Pirates crew,Utsukushiki Kaizoku-dan,"397,000,000",5,active
+56,Bartolomeo's crew,Baruto Kurabu,"267,000,000",2,active
+57,Yonta Maria Fleet,Yonta Maria Dai-senda,"50,000,000",4300,active
+58,The Crescent Moon crew,Mikadzuki no norikumiin,unknown,3,unknown
+59,The Diez Barrels Crew,Bareruzu Kaizokudan,unknown,2,unknown
+60,XXX Gym Martial Arts Alliances,Toripuru-Ekkusu Jimu Kakutō Rengō,unknown,4,active
+61,New Giants Crew,Shin Kyo Hē Kaizoku-dan,unknown,5,active
+62,The Rocks Crew,Rokkusu Kaizokudan,"500,000,000",8,inactive
+63,Ganzack's crew,Gyanzakku Kaizokudan,unknown,unknown,unknown
+64,The Amigo crew,Amigo Kaizokudan,unknown,3,unknown
+65,The crew of the Phoenix,Fenikkusu Kaizokudan,"100,000,000",10,unknown
+66,Bayan's crew,Baian Kaizoku-dan,unknown,4,unknown
+67,The Schneider Pirates crew,Shunaidā Kaizokudan,unknown,2,unknown
+68,Wetton's crew,Wetton Kaizoku-dan,"14,800,000",2,unknown
+69,The Pumpkin Pirates,Panpukin Kaizokudan,unknown,6,dissolved
+70,The Red Arrows crew,Reddo Arōzu Kaizokudan,"1,000,000",10,unknown
+71,The Mustache Pirates crew,Chobihige Kaizokudan,unknown,3,unknown
+72,The Trump Pirates Crew,Toranpu Kyōdai,"38,500,000",8,unknown
+73,Gasparde's crew,Gasupāde Kaizokudan,"152,000,000",6,unknown
+74,Zenny's crew,Zenī Kaizoku-dan,unknown,2,unknown
+75,The Sand Pirates crew,Barubaru Dan,unknown,3,unknown
+76,The Tearoom crew,Ochanoma Kaizokudan,unknown,4,unknown
+77,The Pirates Treasure crew,Maddo Torejā Kaizokudan,unknown,3,inactive
+78,Baroque Works,Barokku Wākusu,"399,700.00",2000,dissolved
+79,Kingdom of Luvneel,Rubunīru Ōkoku,-,-,-
+80,Happou's Fleet,Happō Suigun,"500,000,000",4,active
+81,The Mackerel Crew,Makuro Ichimi,unknown,3,unknown
+82,Marine,Kaigun,-,-,active
+83,Celestial Dragon,Sekai Kizoku,-,-,active
+84,Bigaro,Shibarikubi no Bigaro,"14,900,000",-,inactive
+85,The Mad Treasure Pirates,Maddo Torejā Kaizokudan,unknown,3,inactive
+86,Kingdom of Tontatta,Tontatta Ōkoku,-,23,active
+87,Armarda of the Straw Hat,Mugiwara Dai-sendan,"1,022,000",5640,active
+88,Baggy's Delivery,Bagīzu Deribarī,"344,000,000",22,active
+89,Buggy's Delivery,,,,active
+90,Cipher Pol,,,,active
+91,Enies Lobby,,,,unknown
+92,Impel Down,,,,active
+93,Kingdom of Goa,,,,active
+94,Shimotsuki Village,,,,active
+95,Argao Archipelago,,,,active
+96,Strange Animal Island,,,,active
+97,Gecko Archipelago,,,,active
+98,Baratie,,,,active
+99,Conomi Archipelago,,,,active
+100,Loguetown,,,,active
+101,Kingdom of Lvneel,,,,unknown
+102,Baterilla,,,,active
+103,Evil Kingdom of Black Drum,,,,active
+104,Ohara,,,,inactive
+105,Land of flowers,,,,active
+106,Reverse Mountain,,,,active
+107,Cactus Island,,,,active
+108,Little Garden,,,,active
+109,Drum Island,,,,active
+110,Alabasta,,,,active
+111,Long Ring Long Land,,,,active
+112,Source of carelessness,,,,active
+113,Water Seven,,,,active
+114,Sabaody Archipelago,,,,active
+115,Boing Archipelago,,,,active
+116,Erbaf,,,,active
+117,Land of the Wa,,,,active
+118,Punk Hazard,,,,active
+119,Dressrosa,,,,active
+120,Green Bit,,,,active
+121,Zo,,,,active
+122,Kingdom of Prodence,,,,active
+123,Kingdom of Mogalo,,,,active
+124,Kingdom of Germa,,,,active
+125,Sphinx,,,,active
+126,Skypiea,,,,active
+127,Weatheria,,,,active
+128,Fishman Island,,,,active
+129,The moon,,,,active
+130,Revolutionary Army,,,,active
+131,Former members of the Baroque Works,,,,active
+132,Former members of Cipher Pol,,,,active
+133,Former members of the Navy,,,,active
+134,Slave,,,,active
+135,Brother Thieves,,,,active
+136,Crown Island,,,,active
+137,Asuka Island,,,,active
+138,Red Arrows Pirate,,,,active
+139,Pirate at home,,,,active
+140,Mustached Pirate,,,,active
+141,Mecha Island,,,,active
+142,Neo Marine,,,,active
+143,Gran Tesero,,,,active
+144,Elegia,,,,active
+145,World Economic Journal,,,,active
+146,Cape of Twins,,,,active
+147,Bellamy's crew,,,,active
+148,Pandaman Crew,,,,unknown
+149,Bigalo crew,,,,unknown
