@@ -3,11 +3,11 @@
 one:
   name: MyString
   roman_name: MyString
-  type: 
+  fruit_type: MyString
   description: MyText
 
 two:
   name: MyString
   roman_name: MyString
-  type: 
+  fruit_type: MyString
   description: MyText

@@ -3,7 +3,7 @@ class CreateFruits < ActiveRecord::Migration[7.0]
     create_table :fruits do |t|
       t.string :name
       t.string :roman_name
-      t.string :type
+      t.string :fruit_type
       t.text :description
 
       t.timestamps
