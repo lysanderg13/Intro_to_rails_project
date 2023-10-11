@@ -4,18 +4,14 @@ one:
   name: MyString
   job: MyString
   size: MyString
-  age: MyString
-  bounty: 1
+  bounty: MyString
   status: MyString
   crew: one
-  fruit: one
 
 two:
   name: MyString
   job: MyString
   size: MyString
-  age: MyString
-  bounty: 1
+  bounty: MyString
   status: MyString
   crew: two
-  fruit: two

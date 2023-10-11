@@ -5,6 +5,7 @@ class CreateFruits < ActiveRecord::Migration[7.0]
       t.string :roman_name
       t.string :fruit_type
       t.text :description
+      t.references :character, foreign_key: true
 
       t.timestamps
     end
