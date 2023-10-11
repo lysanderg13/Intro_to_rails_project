@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  job: MyString
+  size: MyString
+  age: MyString
+  bounty: 1
+  status: MyString
+  crew: one
+  fruit: one
+
+two:
+  name: MyString
+  job: MyString
+  size: MyString
+  age: MyString
+  bounty: 1
+  status: MyString
+  crew: two
+  fruit: two
