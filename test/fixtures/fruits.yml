@@ -5,9 +5,11 @@ one:
   roman_name: MyString
   fruit_type: MyString
   description: MyText
+  character: one
 
 two:
   name: MyString
   roman_name: MyString
   fruit_type: MyString
   description: MyText
+  character: two

@@ -1,774 +1,774 @@
-character_id,name,job,size,age,bounty,status,crew_id,fruit_id
-1,Monkey D Luffy,Captain,174cm,19 years old,"1,500,000,000",alive,1,1
-2,Roronoa Zoro,Right arm,181cm,21 years old,"320,000,000",alive,1,
-3,Nami,Navigator,170cm,20 years,"66,000,000",alive,1,
-4,Usopp,Sniper,176cm,19 years old,"200,000,000",alive,1,
-5,Sanji,To cook,180cm,21 years old,"330,000,000",alive,1,
-6,Tony-Tony Chopper,Doctor,90cm,17 years,100,alive,1,92
-7,Nico Robin,Archaeologist,188cm,30 years,"130,000,000",alive,1,6
-8,Frankie,Carpenter,240cm,36 years,"94,000,000",alive,1,
-9,Brook,Musician,277cm,90 years old,"83,000,000",alive,1,21
-10,Jinbe,Helmsman,301cm,46 years,"438,000,000",alive,1,
-11,Zeus,Nami Weapon,232cm,,,alive,1,
-12,Cavendish,Captain,208cm,26 years,"330,000,000",alive,87,
-13,Suleiman,Fighter,240cm,40 years,"67,0000,000",alive,87,
-14,Bartolomeo,Captain,220cm,24 years,"200,000,000",alive,87,47
-15,Gambia,Advise,,,"67,0000,000",alive,87,
-16,Sai,13th command-in-chief,242cm,28 years,"210,000,000",alive,87,
-17,Boo,second in command,,,,alive,87,
-18,Baby 5,,181cm,24 years,,alive,87,42
-19,Idea,Captain,225cm,22 years old,,alive,87,
-20,Blue Gilly,,314cm,24 years,,alive,87,
-21,Abdullah,,,,,alive,87,
-22,And I,,,,,alive,87,
-23,Leo,Captain,23cm,25 years,,alive,87,48
-24,Kabu,,,,,alive,87,107
-25,Bee Anne,,,,,alive,87,108
-26,Hajrudin,Captain,"2,200cm",81 years old,,alive,87,
-27,Stansen,Carpenter,,,,alive,87,
-28,road,Navigator,,63 years old,,alive,87,
-29,Goldberg,To cook,,63 years old,,alive,87,
-30,Gerd,Doctor,,75 years old,,alive,87,
-31,Orlumbus,Admiral,480cm,42 years old,"148,000,000",alive,87,
-32,Baggy / The Clown,President,192cm,39 years old,"15,0000,000",alive,88,2
-33,Alvida,,198cm,27 years old,"5,000,000",alive,88,3
-34,Galdino,,179cm,37 years,"24,000,000",alive,88,7
-35,Morge,,197cm,29 years,,alive,88,
-36,Cabaji,,208cm,34 years old,,alive,88,
-37,Kuro,Captain,207cm,35 years,"16,000,000",alive,7,
-38,Sham,Officer,201cm,23 years,"7,000,000",alive,7,
-39,Buchi,Officer,216cm,23 years,"7,000,000",alive,7,
-40,Krieg / Don Krieg,Captain,243cm,44 years,"17,000,000",alive,8,
-41,Gyn,Vice Admiral,186cm,27 years old,"12,000,000",alive,8,
-42,Pearl,Captain (2nd battalion),239cm,25 years,,alive,8,
-43,Montblanc Cricket,Commander in chief,242cm,43 years,"25,000,000",alive,17,
-44,Masira,,345cm,25 years,"23,000,000",alive,17,
-45,Shojo,,351cm,27 years old,"36,000,000",alive,17,
-46,Foxy,Captain,180cm,38 years old,"24,000,000",alive,24,15
-47,Porch,Fighter,,,,alive,24,
-48,Hamburg,Fighter,,,,alive,24,
-49,Gecko Moria,Captain,692cm,50 years,"320,000,000",alive,28,22
-50,Hogback,Mysterious Four,223cm,47 years,,alive,28,
-51,Absalom,Mysterious Four,195cm,36 years,,deceased,28,24
-52,Perona,Mysterious Four,160cm,25 years,,alive,28,23
-53,Laura,Captain,215cm,26 years,"24,000,000",alive,29,
-54,Trafalgar D. Water Law,Captain,191cm,26 years,"500,000,000",alive,32,27
-55,Bepo,Navigator,240cm,22 years old,500,alive,32,
-56,Jean Bart,,,-,,alive,32,
-57,Shachi,,,27 years old,,alive,32,
-58,Penguin,,,28 years,,alive,32,
-59,Eustass Kidd,Captain,205cm,23 years,"470,000,000",alive,33,26
-60,Killer,Fighter,195cm,27 years old,"200,000,000",alive,33,
-61,Heat,Fighter,,,,alive,33,
-62,Wire,Captain,,,,alive,33,
-63,Capone Beige,Captain,166cm,42 years old,"350,000,000",alive,38,28
-64,Vito,Advise,242cm,36 years,"95,000,000",alive,38,
-65,Gotti,Assassin,375cm,33 Years,"90,000,000",alive,38,
-66,Charlotte Chiffon,,215cm,26 years,,alive,38,
-67,Charlotte Pets,,,1 year,,alive,38,
-68,Jewelry Bonney,Captain,174cm,24 years,"140,000,000",alive,38,
-69,Urouge,Captain,388cm,47 years,"108,000,000",alive,39,
-70,Boa Hancock,Captain,191cm,31 years,"80,000,000",alive,41,31
-71,Boa Sandersonia,,453cm,30 years,"40,000,000",alive,41,102
-72,Boa Marigold,,432cm,28 years,"40,000,000",alive,41,103
-73,Margaret,,178cm,18 years old,,alive,41,
-74,Shiki,Admiral,,,,alive,45,39
-75,Indigo,,,,,alive,45,
-76,Caribou,Co-Captain,228cm,32 years old,"210,000,000",alive,49,88
-77,Coribou,Co-Captain,250cm,29 years,"190,000,000",alive,49,
-78,File Tiger,Captain,4520cm,48 years old,"230,000,000",deceased,26,
-79,Aladdin,Vice-Captain,627cm,46 years,,alive,26,
-80,Charlotte Praline,,800cm,29 years,,alive,26,
-81,Dracule Mihawk,,198cm,43 years,,alive,,
-82,Crocodile,,253cm,46 years,"81,000,000",alive,,
-83,Das Bones,,212cm,31 years,"75,000,000",alive,,
-84,Edward Weeble,,680cm,35 years,"480,000,000",alive,,
-85,Shanks,Captain,199cm,39 years old,"4,048,900,000",alive,2,
-86,Ben Beckmann,Vice-Captain,206cm,50 years,,alive,2,
-87,Lucky Roo,Lieutenant,241cm,35 years,,alive,2,
-88,Yassop,Lieutenant,183cm,47 years,,alive,2,
-89,Limejuice,Lieutenant,,,,alive,2,
-90,Bonk Punch,Lieutenant,,,,alive,2,
-91,Monster,Lieutenant,,,,alive,2,
-92,Building Snake,Lieutenant,,,,alive,2,
-93,Hongo,Lieutenant,,,,alive,2,
-94,Howling Dab,Lieutenant,,,,alive,2,
-95,Rockstar,,,,"94,000,000",alive,2,
-96,Charlotte Linlin / Big Mom,Captain,880cm,68 years old,"4,388,000,000",alive,53,60
-97,Charlotte Houndtooth,General Sweet,509cm,48 years old,"1,057,000,000",alive,53,69
-98,Charlotte Smoothie,General Sweet,464cm,35 years,"932,000,000",alive,53,97
-99,Charlotte Cracker,General Sweet,307cm,45 years old,"860,000,000",alive,53,63
-100,Charlotte Slurp,Lieutenant,333cm,50 years,"700,000,000",alive,53,62
-101,Charlotte Daifuku,Lieutenant,489cm,48 years old,"300,000,000",alive,53,70
-102,Charlotte Oven,Lieutenant,492cm,48 years old,"300,000,000",alive,53,71
-103,Charlotte Almond,Lieutenant,,47 years,,alive,53,
-104,Charlotte Opera,Lieutenant,,46 years,,alive,53,64
-105,Charlotte Brûlée,Lieutenant,350cm,43 years,,alive,53,61
-106,Charlotte Mont d'Or,Lieutenant,260cm,38 years old,"120,000,000",alive,53,66
-107,Charlotte Galette,Lieutenant,,31 years,,alive,53,65
-108,Charlotte Snack,Lieutenant,,30 years,"600,000,000",alive,53,
-109,Charlotte Pudding,Lieutenant,166cm,16 years old,,alive,53,68
-110,Charlotte Flampée,Lieutenant,170cm,15 years,,alive,53,
-111,Charlotte Compote,Officer,,49 years,,alive,53,
-112,Charlotte Mondé,Officer,,47 years,,alive,53,
-113,Charlotte Hachée,Officer,,47 years,,alive,53,
-114,Charlotte Effilee,Officer,,47 years,,alive,53,
-115,Charlotte Counter,Officer,,46 years,,alive,53,
-116,Charlotte Cadenza,Officer,,46 years,,alive,53,
-117,Charlotte Cabaletta,Officer,,46 years,,alive,53,
-118,Charlotte Gala,Officer,,46 years,,alive,53,
-119,Charlotte Angel,Officer,,45 years old,,alive,53,
-120,Charlotte Cream,Officer,,45 years old,,alive,53,
-121,Charlotte Zuccoto,Officer,,44 years,,alive,53,
-122,Charlotte Broyée,Officer,,43 years,,alive,53,
-123,Charlotte Nusstorte,Officer,,42 years old,,alive,53,
-124,Charlotte Basskarte,Officer,,42 years old,,alive,53,
-125,Charlotte Dosmarché,Officer,,42 years old,,alive,53,
-126,Charlotte Hazelnut,Officer,,41 years,,alive,53,
-127,Charlotte Moscato,Officer,,40 years,,alive,53,
-128,Charlotte Mash,Officer,,40 years,,alive,53,
-129,Charlotte Cornstarch,Officer,,40 years,,alive,53,
-130,Charlotte Compo,Officer,,39 years old,,alive,53,
-131,Charlotte Laurin,Officer,,39 years old,,alive,53,
-132,Charlotte Mozart,Officer,,37 years,,alive,53,
-133,Charlotte Marnier,Officer,,37 years,,alive,53,
-134,Charlotte High-Fat,Officer,,36 years,,alive,53,
-135,Charlotte Tablet,Officer,,36 years,,alive,53,
-136,Charlotte Lemon,Officer,,35 years,,alive,53,
-137,Charlotte Cinnamon,Officer,,35 years,,alive,53,
-138,Charlotte Saint-Marc,Officer,,34 years old,,alive,53,
-139,Charlotte Basans,Officer,,33 Years,,alive,53,
-140,Charlotte Mélisée,Officer,,33 Years,,alive,53,
-141,Charlotte Dacquoise,Officer,,32 years old,,alive,53,
-142,Charlotte Pear,Officer,,31 years,,alive,53,
-143,Charlotte Bavarian,Officer,,30 years,,alive,53,
-144,Charlotte Prim,Officer,,29 years,,alive,53,
-145,Charlotte Kanten,Officer,,28 years,,alive,53,
-146,Charlotte Kato,Officer,,28 years,,alive,53,
-147,Charlotte Montb,Officer,,28 years,,alive,53,
-148,Charlotte Chiboust,Officer,,27 years old,,alive,53,
-149,Charlotte Mobile,Officer,,25 years,,alive,53,
-150,Charlotte Marble,Officer,,25 years,,alive,53,
-151,Charlotte Mucre,Officer,,25 years,,alive,53,
-152,Charlotte Mapple,Officer,,25 years,,alive,53,
-153,Charlotte Brownie,Officer,,24 years,,alive,53,
-154,Charlotte Mona Lisa,Officer,,23 years,,alive,53,
-155,Charlotte Raisin,Officer,,22 years old,,alive,53,
-156,Charlotte Panna,Officer,,21 years old,,alive,53,
-157,Charlotte Mascarpone,Officer,,20 years,,alive,53,
-158,Charlotte Joscarpone,Officer,,20 years,,alive,53,
-159,Charlotte Yu Yuan,Officer,,19 years old,,alive,53,
-160,Charlotte Newichi,Officer,,18 years old,,alive,53,
-161,Charlotte Newji,Officer,,18 years old,,alive,53,
-162,Charlotte Newsan,Officer,,18 years old,,alive,53,
-163,Charlotte Newshi,Officer,,18 years old,,alive,53,73
-164,Charlotte Newgo,Officer,,18 years old,,alive,53,
-165,Charlotte Nutmeg,Officer,,18 years old,,alive,53,
-166,Charlotte Muscadia,Officer,,18 years old,,alive,53,
-167,Charlotte Muscadelle,Officer,,18 years old,,alive,53,
-168,Charlotte Muscadine,Officer,,18 years old,,alive,53,
-169,Charlotte Muscadette,Officer,,18 years old,,alive,53,
-170,Charlotte Nougat,Officer,,17 years,,alive,53,
-171,Charlotte English,Officer,,14 years old,,alive,53,
-172,Charlotte Wafers,Officer,,13 years,,alive,53,
-173,Charlotte Wiro,Officer,,12 years,,alive,53,
-174,Charlotte De-Chat,Officer,,11 years old,,alive,53,
-175,Charlotte Normande,Officer,,10 years,,alive,53,
-176,Charlotte Dolce,Officer,,9 years,,alive,53,
-177,Charlotte Dragée,Officer,,9 years,,alive,53,
-178,Charlotte Anana,Officer,,8 years,,alive,53,
-179,Pekoms,Fighter,232cm,27 years old,"330,000,000",alive,53,104
-180,Deloeuf,Fighter,301cm,46 years,"429,000,000",alive,53,105
-181,Boddin,Fighter,,,"155,000,000",alive,53,
-182,Streusen,To cook,140cm,92 years old,,alive,53,72
-183,Prometheus,Homie,239cm,,,alive,53,
-184,Napoleon,Homie,,,,alive,53,
-185,Hera,Homie,,,,alive,53,
-186,Kingbaum,Homie,"2,340cm",,,deceased,53,
-187,Kaido,Captain,710cm,59 years old,"4,611,100,000",alive,44,122
-188,King,Super star,613cm,47 years,"1,390,000,000",alive,44,114
-189,Queen,Super star,612cm,56 years old,"1,320,000,000",alive,44,115
-190,Jack,Super star,730cm,28 years,"1,000,000,000",alive,44,112
-191,PageOne,Tobi Roppo,171cm,20 years,"290,000,000",alive,44,113
-192,Ulti,Tobi Roppo,173cm,22 years old,"400,000,000",alive,44,116
-193,Who's Who,Tobi Roppo,336cm,38 years old,"546,000,000",alive,44,120
-194,Black Maria,Tobi Roppo,820cm,29 years,"480,000,000",alive,44,118
-195,Sasaki,Tobi Roppo,318cm,34 years old,"472,000,000",alive,44,117
-196,Sheep's Head,Featured,293cm,24 years,,alive,44,127
-197,Basil Hawkins,Featured,210cm,31 years,"320,000,000",alive,44,29
-198,Holdem,Featured,312cm,30 years,,alive,44,131
-199,Speed,Featured,298cm,24 years,,alive,44,132
-200,Trouduc,Featured,,,,alive,44,138
-201,Lousy,Featured,,,,alive,44,137
-202,Lonely,Featured,,,,alive,44,139
-203,Bao Huang,Featured,,,,alive,44,142
-204,Ginrummy,Featured,,,,alive,44,
-205,Plou,Featured,,,,alive,44,135
-206,Briscola,Featured,,,,alive,44,144
-207,Fourtricks,Featured,,,,alive,44,145
-208,Hamlet,Featured,,,,alive,44,146
-209,Mizerka,Featured,,,,alive,44,144
-210,Poker,Featured,,,,alive,44,147
-211,Batman,Gifters,,,,alive,44,128
-212,Gazelleman,Gifters,,,,alive,44,129
-213,Mouseman,Gifters,,,,alive,44,130
-214,Snakeman,Gifters,,,,alive,44,133
-215,Rabitman,Gifters,,,,alive,44,134
-216,Sarehebi,Gifters,,,,alive,44,133
-217,Alpacaman,Gifters,,,,alive,44,136
-218,Armadillo,Gifters,,,,alive,44,140
-219,Dachoman,Gifters,,,,alive,44,141
-220,Tenjo-Sagari,Gifters,,,,alive,44,143
-221,Caimanlady,Gifters,,,,alive,44,149
-222,Nuré-Onna,Gifters,,,,alive,44,138
-223,Wa-Nyudo,Gifters,,,,alive,44,150
-224,Inbi,numbers,,,,alive,44,
-225,Fuga,numbers,,,,alive,44,
-226,Zanki,numbers,,,,alive,44,
-227,Jaki,numbers,,,,alive,44,
-228,Goki,numbers,,,,alive,44,
-229,Rokki,numbers,,,,alive,44,
-230,Nangi,numbers,,,,alive,44,
-231,Hacha,numbers,,,,alive,44,
-232,Kunyun,numbers,,,,alive,44,
-233,Juki,numbers,,,,alive,44,
-234,Fukurokuju,,,,,alive,44,
-235,Daikoku,Samurai,,,,alive,44,
-236,Hanzo,Samurai,,,,alive,44,
-237,Sarutobi,Samurai,,,,alive,44,
-238,Kazekage,Samurai,,,,alive,44,
-239,Jigoku Benten,Samurai,,,,alive,44,
-240,Fujin,Samurai,,,,alive,44,
-241,Raijin,Samurai,,,,alive,44,
-242,Bishamon,Samurai,,,,alive,44,
-243,Tohomé,Samurai,,,,alive,44,
-244,Yazaemon,Samurai,,,,alive,44,
-245,Hotei,Samurai,,,,alive,44,
-246,Scratchmen Apoo,Informant,,,,alive,44,30
-247,Marshall D. Teach / Blackbeard,Pirate,344cm,40 years,"2,247,600,000",alive,22,85
-248,Jesus Burgess,Commander of the Admiral,355cm,29 years,"20,000,000",alive,22,199
-249,Shiliew,Commander 2nd Ship,340cm,44 years,,alive,22,24
-250,Van Auger,Commander 3rd Ship,340cm,27 years old,"64,000,000",alive,22,200
-251,Avalo Pizarro,Commander 4th Ship,505cm,42 years old,,alive,22,201
-252,Lafitte,Commander 5th Ship,340cm,41 years,"42,200,000",alive,22,
-253,Catarina Devon,Commander 6th Ship,361cm,36 years,,alive,22,123
-254,Sanjuan Wolf,Commander 7th Ship,"18,000cm",99 years old,,alive,22,202
-255,Vasco Shot,Commander 8th Ship,573cm,38 years old,,alive,22,203
-256,Doc Q,Commander 9th Ship,352cl,28 years,"72,000,000",alive,22,204
-257,Pink Beard,,,,"52,000,000",alive,22,
-258,Gol D.Roger,Captain,274cm,53 years,"5,564,800,000",deceased,5,
-259,Silvers Rayleigh,Right arm,188cm,78 years old,,alive,5,
-260,Scopper Gaban,Carpenter,,,,alive,5,
-261,Seagull Guns Nozdon,,,,,alive,5,
-262,Taro,,,,,alive,5,
-263,Dringo,,,,,alive,5,
-264,Sanjuan Wolf,,,,,alive,5,
-265,Millet Pine,,,,,alive,5,
-266,Ganryu,,,,,alive,5,
-267,CB Galant,,,,,alive,5,
-268,Donquino,,,,,alive,5,
-269,Mr Momora,,,,,alive,5,
-270,Moon Isaac Jr.,,,,,alive,5,
-271,Yui,,,,,alive,5,
-272,Rangram,,,,,alive,5,
-273,Colonel Mugren,,,,,alive,5,
-274,Max Marks,,,,,alive,5,
-275,Spencer,,,,,alive,5,
-276,Bankro,,,,,alive,5,
-277,Blumarine,,,,,alive,5,
-278,Elio,,,,,alive,5,
-279,Rowing,,,,,alive,5,
-280,Jacsonbaner,,,,,alive,5,
-281,Yamon,,,,,alive,5,
-282,Arlong,Captain,263cm,41 years,"20,000,000",alive,10,
-283,Kuroobi,Lieutenant,252cm,38 years old,"9,000,000",alive,10,
-284,Smack,Lieutenant,257cm,35 years,"5,500,000",alive,10,
-285,Yorki,Captain,,,,deceased,12,
-286,Madaisky Mizuta,,,,,deceased,12,
-287,Mawaritovsky Mizuta,,,,,deceased,12,
-288,Sarquis,,228cm,27 years old,"38,000,000",deceased,147,
-289,Edward Newgate / Whitebeard,Captain,666cm,72 years old,"5,046,000,000",deceased,16,35
-290,Portgas D.Ace,Commander 2nd Ship,185cm,20 years,"550,000,000",deceased,16,82
-291,Diamond Joz,Commander 3rd Ship,503cm,42 years old,,alive,16,36
-292,Thatch,Commander 4th Ship,,,,deceased,16,
-293,View,Commander 5th Ship,328cm,47 years,,alive,16,
-294,Blamenco,Commander 6th Ship,,,,alive,16,37
-295,Rakuyo,Commander 7th Ship,,,,alive,16,
-296,Blenheim,Commander 9th Ship,,,,alive,16,
-297,Curiel,Commander 10th Ship,,,,alive,16,
-298,Kingdew,Commander 11th Ship,,,,alive,16,
-299,Haruta,Commander 12th Ship,,,,alive,16,
-300,Atmos,Commander 13th Ship,,,,alive,16,
-301,Speed Jill,Commander 14th Ship,,,,alive,16,
-302,Fossa,Commander 15th Ship,,,,alive,16,
-303,Izou,Commander 16th Ship,,45 years old,,deceased,16,
-304,Doma,Subordinate,,,,alive,16,
-305,DeCalvan Brothers,Subordinate,,,,alive,16,
-306,Squardo,Subordinate,,52 years,"210,000,000",alive,16,
-307,Whitey Bay,Subordinate,,,,alive,16,
-308,Little Oz Junior,Subordinate,,72 years old,"550,000,000",unknown,16,
-309,Mc Guy,Subordinate,,,,alive,16,
-310,A.O.,Subordinate,,,,alive,16,
-311,Karma,Subordinate,,,,alive,16,
-312,Elmy,Subordinate,,,,alive,16,
-313,Ramba,Subordinate,,,,alive,16,
-314,Delacuaji,Subordinate,,,,alive,16,
-315,Zodia,Subordinate,,,,alive,16,
-316,Palms,Subordinate,,,,alive,16,
-317,Weird,Subordinate,,,,alive,16,
-318,Pavlik,Subordinate,,,,alive,16,
-319,Vitan,Subordinate,,,,alive,16,
-320,Islewan,Subordinate,,,,alive,16,
-321,Epoida,Subordinate,,,,alive,16,
-322,Kechatch,Subordinate,,,,alive,16,
-323,Choi,Subordinate,,,,alive,16,
-324,Arthur,Subordinate,,,,alive,16,
-325,Hangan,Subordinate,,,,alive,16,
-326,Strengthens,Subordinate,,,,alive,16,
-327,Andrew,Subordinate,,,,alive,16,
-328,Ninth,Subordinate,,,,alive,16,
-329,Blondie,Subordinate,,,,alive,16,
-330,Nosgarl,Subordinate,,,,alive,16,
-331,Amadob,Subordinate,,,,alive,16,
-332,Baggaley,Subordinate,,,,alive,16,
-333,Wakkem,Subordinate,,,,alive,16,
-334,Brew,Subordinate,,,,alive,16,
-335,Brocca,Subordinate,,,,alive,16,
-336,Rush,Subordinate,,,,alive,16,
-337,Great Micheal,Subordinate,,,,alive,16,
-338,Zucca,Subordinate,,,,alive,16,
-339,Cands,Subordinate,,,,alive,16,
-340,Kinga,Subordinate,,,,alive,16,
-341,Colscon,Subordinate,,,,alive,16,
-342,Agsilly,Subordinate,,,,alive,16,
-343,Julius,Subordinate,,,,alive,16,
-344,Happygun,Subordinate,,,,alive,16,
-345,Sleepy,Subordinate,,,,alive,16,
-346,Forliewbs,Subordinate,,,,alive,16,
-347,Barbos Bruneriguez / Brown Beard,Captain,691cm,45 years old,"80,060,000",alive,43,
-348,Bluejam,Captain,261cm,42 years old,"14,300,000",deceased,46,
-349,Porchemy,,320cm,25 years,"3,400,000",deceased,46,
-350,Demaro Black,Captain,245cm,36 years,"26,000,000",alive,48,
-351,Manjaro,,202cm,,,alive,48,
-352,Chocolate,,181cm,26 years,,alive,48,
-353,Mounblutain,,294cm,30 years,,alive,48,
-354,Drip,,208cm,24 years,,alive,48,
-355,Nora Gitsune,,103cm,13 years,,alive,48,
-356,Cocoa,,138cm,27 years old,,alive,48,
-357,Turco,,258cm,45 years old,,alive,48,
-358,Hody Jones,Captain,331cm,30 years,,alive,50,
-359,Dosun,Lieutenant,418cm,30 years,,alive,50,
-360,Zeo,Lieutenant,325cm,30 years,,alive,50,
-361,Daruma,Lieutenant,122cm,30 years,,alive,50,
-362,Ikaros Much,Lieutenant,499cm,30 years,,alive,50,
-363,Hyozo,Lieutenant,327cm,39 years old,,alive,50,
-364,Vander Decken IX,Captain,352cm,35 years,,unknown,51,
-365,Don Quixote Doflamingo,Captain,305cm,41 years,"340,000,000",alive,21,14
-366,Trebol,Chief Lieutenant,349cm,49 years,"99,000,000",alive,21,44
-367,Diamond,Chief Lieutenant,525cm,45 years old,"99,000,000",alive,21,55
-368,pica,Chief Lieutenant,470cm,40 years,"99,000,000",alive,21,56
-369,Vergo,Chief Lieutenant,247cm,41 years,,deceased,21,
-370,Sugar,Lieutenant of the Trebol Army,110cm,22 years old,,alive,21,45
-371,Jora,Lieutenant of the Trebol Army,221cm,61 years old,,alive,21,50
-372,Lao G,Lieutenant of the Diamond Army,157cm,70 years,"61,000,000",alive,21,
-373,Senor Pink,Lieutenant of the Diamond Army,244cm,46 years,"58,000,000",alive,21,53
-374,Machvise,Lieutenant of the Diamond Army,440cm,52 years,"11,000,000",alive,21,54
-375,Dellinger,Lieutenant of the Diamond Army,145cm,16 years old,"15,0000,000",alive,21,
-376,Gladius,Pica Army Lieutenant,260cm,33 Years,"31,000,000",alive,21,52
-377,Buffalo,Pica Army Lieutenant,696cm,30 years,,alive,21,43
-378,Monet,Lieutenant,227cm,30 years,,deceased,21,90
-379,Rocks D. Xebec,Captain,,,,unknown,62,
-380,Im Sama,Leader,,,,alive,89,
-381,1st Dean,Council of Five Deans,,,,alive,89,
-382,2nd Dean,Council of Five Deans,,,,alive,89,
-383,3rd Dean,Council of Five Deans,,,,alive,89,
-384,4th Dean,Council of Five Deans,,,,alive,89,
-385,5th Dean,Council of Five Deans,,,,alive,89,
-386,Roswald,,215cm,55 years,,alive,83,
-387,Charles,,230cm,24 years,,alive,83,
-388,Sharlia,,178cm,17 years,,alive,83,
-389,Don Quixote Myosgard,,,,,deceased,83,
-390,Jalmack,,,,,alive,83,
-391,Guernica,,,,,unknown,90,
-392,Rob Lucci,,212cm,30 years,,alive,90,99
-393,Hittori,,,,,alive,90,
-394,Spandam,,192cm,41 years,,alive,90,
-395,Funckfreed,,,,,alive,90,99
-396,Kaku,,193cm,25 years,,alive,90,101
-397,Stussy,,179cm,,,alive,90,
-398,Maha,,,,,alive,90,
-399,Jerry,,676cm,46 years,,alive,90,
-400,Wanze,,173cm,28 years,,alive,90,
-401,Down,,,50 years,,alive,91,
-402,And,,,55 years,,alive,91,
-403,Kerville,,,44 years,,alive,91,
-404,Hannyabal,director,355cm,35 years,,alive,92,
-405,Magellan,Deputy Director,425cm,47 years,,alive,92,32
-406,Domino,Head goalkeeper,,,,alive,92,
-407,Saldeath,Chief of the guards,218cm,18 years old,,alive,92,
-408,Sadi,Leader of the Demon Guard,183cm,23 years,,alive,92,
-409,Minotaur,Bestial Guard,,,,alive,92,
-410,Minokoala,Bestial Guard,,,,alive,92,
-411,Minorhinoceros,Bestial Guard,,,,alive,92,
-412,Minozebra,Bestial Guard,,,,alive,92,
-413,Minochihuabua,Bestial Guard,,,,alive,92,
-414,Sakazuki / Akainu,Chief Admiral,306cm,55 years,,alive,82,87
-415,Borsalino / Kizaru,Admiral,302cm,58 years old,,alive,82,86
-416,Issho/Fujitora,Admiral,270cm,54 years old,,alive,82,46
-417,Aramaki / Ryokugyu,Admiral,,,,alive,82,
-418,Monkey D. Garp,Vice Admiral,287cm,78 years old,,alive,82,
-419,Tsuru,Vice Admiral,204cm,76 years old,,alive,82,38
-420,John Giant,Vice Admiral,,,,alive,82,
-421,Comir,Vice Admiral,,,,alive,82,
-422,Momonga,Vice Admiral,251cm,48 years old,,alive,82,
-423,Onigumo,Vice Admiral,,,,alive,82,
-424,Doberman,Vice Admiral,,,,alive,82,
-425,Strawberry,Vice Admiral,,,,alive,82,
-426,Yamakaji,Vice Admiral,,,,alive,82,
-427,Dalmatian,Vice Admiral,,,,alive,82,
-428,Bastille,Vice Admiral,,,,alive,82,
-429,Smoker,Vice Admiral,209cm,36 years,,alive,82,80
-430,Maynard,Vice Admiral,,,,alive,82,
-431,Tokikake,Vice Admiral,,,,alive,82,
-432,Hina,Deputy Admiral,181cm,34 years old,,alive,82,12
-433,T. Bone,Deputy Admiral,200cm,53 years,,alive,82,
-434,Pudding,Rear Admiral,,,,deceased,82,
-435,Jenfétro,Rear Admiral,220cm,,,alive,82,
-436,Brandnew,Rear Admiral,190cm,56 years old,,alive,82,
-437,Very good,Colonel,,,,alive,82,18
-438,Shu,Colonel,,,,alive,82,19
-439,Sharinguru,Colonel,,,,alive,82,20
-440,Tashigi,Colonel,170cm,23 years,,alive,82,
-441,Kobby,Colonel,167cm,18 years old,,alive,82,
-442,Nezumi,Colonel,182cm,36 years,,alive,82,
-443,Don Quijote Rosinante,Lieutenant Colonel,293cm,26 years,,deceased,82,58
-444,Hermep,Lieutenant,179cm,22 years old,,alive,82,
-445,Full body,Lieutenant,184cm,28 years,,alive,82,
-446,Jango,Lieutenant,207cm,29 years,,alive,82,
-447,Sengoku,Observer,278cm,79 years old,,alive,82,121
-448,Sentomaru,Captain of the Scientific Brigade,279cm,34 years old,,alive,82,
-449,X-Drake,Captain of the Sword,233cm,33 Years,,alive,82,111
-450,Kaiser Mustache,Vice Admiral,,,,alive,82,
-451,Cancer,Vice Admiral,,,,alive,82,
-452,Mozambique,Vice Admiral,,,,alive,82,
-453,The cross,Vice Admiral,,,,alive,82,
-454,Ronz,Vice Admiral,,,,alive,82,
-455,Dohn Deynon,Vice Admiral,,,,alive,82,
-456,Draw,Vice Admiral,,,,alive,82,
-457,Sicily,Deputy Admiral,,,,alive,82,
-458,Akehende,Deputy Admiral,,,,alive,82,
-459,Catacombo,Deputy Admiral,,,,alive,82,
-460,Kadar,Deputy Admiral,,,,alive,82,
-461,Daigin,Rear Admiral,,,,alive,82,
-462,Gorilla,Colonel,,,,alive,82,
-463,Stella,Sovereign,180cm,20 years,,alive,93,
-464,Sally Entoilette,Queen,,,,alive,93,
-465,Outlook III,Resident of the Upper Town,,,,alive,93,
-466,Didit,Resident of the Upper Town,,,,alive,93,
-467,Makino,Bar keeper,166cm,31 years,,alive,93,
-468,Whoop Slap,Mayor of the village of Fuchsia,,,,alive,93,
-469,Curly Dadan,Inhabitant of Mount Corvo,221cm,55 years,,alive,93,
-470,Dogra,Inhabitant of Mount Corvo,,,,alive,93,
-471,Magra,Inhabitant of Mount Corvo,,,,alive,93,
-472,Higuma,Inhabitant,190cm,46 years,,deceased,93,
-473,Kozaburo Shimotsuki,Inhabitant,,,,deceased,94,
-474,Koshiro,Dojo Master,184cm,51 years old,,alive,94,
-475,Kuina,Inhabitant,150cm,11 years old,,deceased,94,
-476,Boodle,Mayor of the village of Orange,172cm,75 years old,,alive,95,
-477,Pet,Store owner,40cm,14 years old,,alive,95,
-478,Gaimone,Guardian,130cm,45 years old,,alive,96,
-479,Sarfunkel,Inhabitant,,,,alive,96,
-480,Kaya,Medical student,169cm,19 years old,,alive,97,
-481,Merry,Butler,,,,alive,97,
-482,Onion,Inhabitant of the village of Sirop,124cm,11 years old,,alive,97,
-483,Pepper,Inhabitant of the village of Sirop,120cm,11 years old,,alive,97,
-484,Carrot,Inhabitant of the village of Sirop,127cm, 11 years old,,alive,97,
-485,Banchina,Inhabitant of the village of Sirop,,,,deceased,97,
-486,Zeff,Owner and Chef,189cm,67 years old,,alive,98,
-487,Patty,Pastry specialist cook,204cm,29 years,,alive,98,
-488,Cane,Meat specialist cook,171cm,34 years old,,alive,98,
-489,Belmer,Mandarin producer,186cm,30 years,,deceased,99,
-490,Nojiko,Mandarin producer,170cm,22 years old,,alive,99,
-491,Genzo,Sheriff,173cm,48 years old,,alive,99,
-492,Nako,Doctor,,,,alive,99,
-493,Chabo,Mandarin producer,,,,alive,99,
-494,Johnny,Fisherman,186cm,25 years,,alive,99,
-495,Yosaku,Fisherman,185cm,26 years,,alive,99,
-496,Ipponmatsu,Gunsmith,157cm,40 years,,alive,100,
-four hundred ninety seven,Montblanc Norland,Explorer,220cm,39 years old,,deceased,101,
-498,Don Quijote Homing,,,,,deceased,83,
-499,Portgas D. Red,,,,,deceased,102,
-500,Wapol,King,207cm,29 years,,alive,103,8
-501,Kinderella,Queen,,,,alive,103,
-502,Clover,Library Director,172cm,85 years old,,deceased,104,
-503,Nico Olvia,Archaeologist,186cm,33 Years,,deceased,104,
-504,Haguar D. Sauro,Vice Admiral,"1,950cm",105 years old,,deceased,104,
-505,Ramen,King,,,,unknown,105,
-506,Chinjao,,520cm,78 years old,"542,000,000",alive,105,
-507,Crocus,Lighthouse keeper,203cm,73 years old,,alive,146,
-508,Laboon,Inhabitant,"40,000cm",53 years,,alive,146,
-509,Miss Monday,Inhabitant,,,,alive,107,
-510,Mr 9,Inhabitant,,,,alive,107,
-511,Dorry,Inhabitant,"2,260cm",160 years,,alive,108,
-512,Broggy,Inhabitant,2 130cm,160 years,,alive,108,
-513,Dolton,Sovereign,218cm,35 years,,alive,109,
-514,Kureha,Doctor,188cm,141 years old,,alive,109,
-515,Hiluluk,Doctor,213cm,68 years old,,deceased,109,
-516,Chess,Chief of Staff,194cm,32 years old,,alive,109,
-517,Kuromarimo,Administrator,186cm,30 years,,alive,109,
-518,Nefertari Cobra,12th King,182cm,50 years,,alive,110,
-519,Nefertari Titi,Queen,,,,deceased,110,
-520,Nefertari Vivi,Princess,169cm,18 years old,,alive,110,
-521,Igaram,Commander of the Royal Guard,218cm,50 years,,alive,110,
-522,Shaka,Deputy Command of the Royal Guard,213cm,41 years,,alive,110,96
-523,Pell,Deputy Command of the Royal Guard,189cm,35 years,,alive,110,93
-524,Kaloo,Super Duck Squadron,150cm,16 years old,,alive,110,
-525,Long-Lashes,Inhabitant,190cm,17 years,,alive,110,
-526,Stomp,Super Duck Squadron,,,,alive,110,
-527,Ivan,Super Duck Squadron,,,,alive,110,
-528,Cowboy,Super Duck Squadron,,,,alive,110,
-529,Bumblebee Jr.,Super Duck Squadron,,,,alive,110,
-530,Kentaros,Super Duck Squadron,,,,alive,110,
-531,Hikoichi,Super Duck Squadron,,,,alive,110,
-532,Koza,Minister of the Environment,177cm,22 years old,,alive,110,
-533,Toto,Inhabitant,,,,alive,110,
-534,Tonjit, Nomadic,110cm,63 years old,,alive,111,
-535,Shelley,Inhabitant,,,,alive,111,
-536,Gedatsu,Employee,220cm,31 years,,alive,112,
-537,Icebarg,Galley-La Company (director),199cm,40 years,,alive,113,
-538,Pauly,Galley-La Company (vice director),195cm,26 years,,alive,113,
-539,Peeply Lulu,Galley-La Company (head of coaters and blacksmiths),206cm,33 Years,,alive,113,
-540,Tilestone,"Galley-La Company (head of cabinetmakers, caulkers and sailmakers)",255cm,35 years,,alive,113,
-541,Zanbai,Galley-La Company (Zanbai union),227cm,35 years,,alive,113,
-542,Mozu,Bartender,187cm,21 years old,,alive,113,
-543,Kiwi,Bartender,187cm,22 years old,,alive,113,
-544,Tommy,Tom's Workers (boss),296cm,67 years old,,deceased,113,
-545,Kokoro,stationmaster of Shift Station,168cm,72 years old,,alive,113,
-546,Chimney,Shift Station Sunday Stationmaster,115cm,10 years,,alive,113,
-547,Gonbei,Inhabitant,,,,alive,113,
-548,Yokozuma,Inhabitant,,,,alive,113,
-549,Silvers Rayleigh,Inhabitant,188cm,78 years old,,alive,114,
-550,Shakuyaku,Inhabitant,186cm,64 years old,,alive,114,
-551,Disco,Inhabitant,,,,alive,114,
-552,Duval,Inhabitant,470cm,25 years,,alive,114,
-553,Heracles,Inhabitant,214cm,51 years old,,alive,115,
-554,Loki,Prince,,63 years old,,alive,116,
-555,Jorl,Inhabitant,2 150cm,344 years old,,deceased,116,
-556,Jarl,Inhabitant,"2,050cm",408 years old,,alive,116,
-557,Oimo,Inhabitant,"1,600cm",153 years old,,alive,116,
-558,Kaashii,Inhabitant,"1,700cm",156 years old,,alive,116,
-559,Sukiyaki Kozuki,Shogun,214cm,81 years old,,alive,117,
-560,Oden Kozuki,Lord of Kuri,382cm,39 years old,,deceased,117,
-561,Toki Kozuki,Inhabitant,190cm,36 years,,deceased,117,77
-562,Mononosuke Kozuki,Shogun,110cm,8 years,,alive,117,197
-563,Hiyori Kozuki,Courtesan,170cm,26 years,,alive,117,
-564,Kinémon,Red Scabbards,295cm,36 years,,alive,117,41
-565,Denjiro,Red Scabbards,306cm,47 years,,alive,117,
-566,Izo,Red Scabbards,192cm,45 years old,"510,000,000",deceased,117,
-567,Kikunojo,Red Scabbards,287cm,22 years old,,alive,117,
-568,Raizo,Red Scabbards,331cm,35 years,,alive,117,
-569,Ashura Doji,Red Scabbards,544cm,56 years old,,deceased,117,
-570,Kawamatsu,Red Scabbards,271cm,41 years,,alive,117,
-571,Shinobu,Red Scabbards,180cm,49 years,,alive,117,78
-572,Orochi Kurozumi,Shogun,350cm,54 years old,,deceased,117,124
-573,Kanjuro Kurozumi,Red Scabbards,347cm,34 years old,,alive,117,57
-574,Semimaru Kurozumi,Kurozumo clan,,,,deceased,117,47
-575,Higurashi Kurozumi,Kurozumo clan,,,,deceased,117,9
-576,Ryuma Shimotsuki,Shimotsuki clan,179cm,47 years,,deceased,117,
-577,Yasui Shimotsuki,Shimotsuki clan,155cm,71 years old,,deceased,117,
-578,Toko,Shimotsuki clan,89cm,8 years,,deceased,117,
-579,Onimaru,Inhabitant,428cm,69 years old,,alive,117,125
-580,Hyogoro,leader of a yakuza clan from the flower capital,100cm,70 years,,alive,117,
-581,Omasa,leader of a yakuza clan in the Udon region,,,,alive,117,
-582,Tsunagoro,leader of a yakuza clan in the Hakumai region,,,,alive,117,
-583,Cho,leader of a yakuza clan from the Ringo region,,,,alive,117,
-584,Yatappé,leader of a yakuza clan in the Kibi region,,,,alive,117,
-585,Tama,Inhabitant,108cm,8 years,,alive,117,76
-586,Tsurujo,Inhabitant,191cm,55 years,,alive,117,
-587,Komachiyo,Inhabitant,,,,alive,117,
-588,Baboumaru,Inhabitant,,,,alive,117,
-589,Bunbuku,Inhabitant,,,,alive,117,110
-590,Yamato,Inhabitant,263cm,28 years,,alive,117,126
-591,Rock,Yeti Cool Brothers,"4,250cm",25 years,"20,000,000",alive,118,
-592,Scotch,Yeti Cool Brothers,"4,250cm",25 years,"20,000,000",alive,118,
-593,Smiley,Inhabitant,"15,000cm",4 years,,deceased,118,106
-594,Riku Dold III,King,261cm,60 years,,alive,119,
-595,Scarlett,Princess,,25 years,,deceased,119,
-596,Kyros,Commander in chief,268cm,44 years,,alive,119,
-597,Viola,Princess,178cm,29 years,,alive,119,49
-598,Rebecca,Next,171cm,16 years old,,alive,119,
-599,Gatz,Inhabitant,,,,alive,119,
-600,Tank Lepanto,Inhabitant,,,,alive,119,
-601,Guncho,King,,,,alive,120,
-602,Manshelly,Princess,,25 years,,alive,120,59
-603,Zunesha,,35km,"1,000 years",,alive,121,
-604,Begis Khan,Lord,,,,alive,121,
-605,Caborage,Diurnal Lord / Red Scabbards,511cm,40 years,,alive,121,
-606,Chavipere,Night Lord / Red Scabbards,522cm,40 years,,alive,121,
-607,Sicilion,Captain of the Musketeers unit,196cm,34 years old,,alive,121,
-608,Cancelot,Musketeers Unit,204cm,29 years,,alive,121,
-609,Giovanni,Musketeers Unit,226cm,30 years,,alive,121,
-610,Wanda,Musketeers Unit,181cm,28 years,,alive,121,
-611,Carrot,Musketeers Unit,161cm,15 years,,alive,121,
-612,Peter,Musketeers Unit,233cm,32 years old,,deceased,121,
-613,Elizabeth II,Sovereign,436cm,57 years old,,alive,122,
-614,Dagama,Strategist,,,,alive,122,
-615,Kelly Funk,Assassin,168cm,36 years,"57,000,000",alive,123,51
-616,Bobby Funk,Assassin,320cm,33 Years,"36,000,000",alive,123,
-617,Judge Vinsmoke,Sovereign,272cm,56 years old,,alive,124,
-618,Sora Vinsmoke,Queen,,,,deceased,124,
-619,Reiju Vinsmoke,Princess,173cm,24 years,,alive,124,
-620,Ichiji Vinsmoke,Prince,186cm,21 years old,,alive,124,
-621,Niji Vinsmoke,Prince,185cm,21 years old,,alive,124,
-622,Yonji Vinsmoke,Prince,194cm,21 years old,,alive,124,
-623,Marco,Sphinx (doctor) / Command 1st Fleet Whitebeard,203cm,45 years old,"1,374,000,000",alive,125,206
-624,Gan Forr,God,180cm,68 years old,,alive,126,
-625,Rock,Inhabitant,,,,alive,126,97
-626,Conis,Inhabitant,176cm,21 years old,,alive,126,
-627,Paddle,Inhabitant,179cm,54 years old,,alive,126,
-628,Amazon,Inhabitant,120cm,79 years old,,alive,126,
-629,Chef Shandia,Inhabitant / Shandia Tribe (chief),179cm,65 years,,alive,126,
-630,Wipe,Divine Guard / Shandia Tribe,183cm,24 years,,alive,126,
-631,Kamakiri,Divine Guard / Shandia Tribe,214cm,24 years,,alive,126,
-632,Braham,Divine Guard / Shandia Tribe,179cm,24 years,,alive,126,
-633,Genbo,Divine Guard / Shandia Tribe,193cm,25 years,,alive,126,
-634,Laki,Inhabitant / Shandia Tribe,179cm,22 years old,,alive,126,
-635,Aisa,Inhabitant / Shandia Tribe,140cm,11 years old,,alive,126,
-636,Nora,Inhabitant / Shandia Tribe,"20,000cm",400 years,,alive,126,
-637,Calgary,Shandia Tribe,222cm,39 years old,,deceased,126,
-638,Om,Skypiea (exiled) / Clan Enel (Prelate of the Iron Ordeal),189cm,29 years,,alive,126,
-639,Satori,Skypiea (exiled) / Clan Ener (Prelate of the Balloon Ordeal),179cm,27 years old,,alive,126,
-640,Shura,Skypiea (exiled) / Clan Ener (Prelate of the Ordeal of the Sons),191cm,33 Years,,alive,126,
-641,Yama,Skypiea (exile) / Clan Enel (captain of the holy guard),366cm,45 years old,,alive,126,
-642,Hotori,Skypiea (exiled) / Clan Enel (vice captain of the holy guard),179cm,27 years old,,alive,126,
-643,Kotori,Skypiea (exiled) / Clan Enel (vice captain of the holy guard),179cm,27 years old,,alive,126,
-644,Haredas,Inhabitant,253cm,97 years old,,alive,127,
-645,Neptune,Monarch,1220cm,70 years,,alive,128,
-646,Otohime,Queen,224cm,36 years,,deceased,128,
-647,Fukaboshi,Prince,604cm,24 years,,alive,128,
-648,Ryuboshi,Prince,544cm,23 years,,alive,128,
-649,Mamboshi,Prince,473cm,20 years,,alive,128,
-650,Shirahoshi,Princess,"1,187cm",16 years old,,alive,128,
-651,Hoe,Inhabitant,"4,000cm",,,alive,128,
-652,Megalo,Inhabitant,"2,500cm",,,alive,128,
-653,Minister Senester,Minister Senester,435cm,62 years old,,alive,128,
-654,Minister Dextre,Minister Dextre,313cm,55 years,,alive,128,
-655,Shyarly,Patron of Café des Sirènes,520cm,29 years,,alive,128,
-656,Keimi,Café des Sirènes employee,167cm,18 years old,,alive,128,
-657,Pappag,"Founder / Designer of the brand ""Criminal""",50cm,33 Years,,alive,128,
-658,Octy,Takoyaki merchant,220cm,38 years old,"8,000,000",alive,128,
-659,Den,Carpenter,435cm,62 years old,,alive,128,
-660,Ener,Leader,266cm,39 years old,,alive,129,83
-661,Monkey D.Dragon,Commander in chief,256cm,55 years,,alive,130,
-662,Sabo,Chief of Staff,187cm,22 years old,"602,000,000",alive,130,82
-663,Emporio Ivankov,Command of Troop G,449cm,53 years,"100,000,000",alive,130,33
-664,Crow,Commander of the “Northern” troop,265cm,47 years,"400,000,000",alive,130,
-665,Belo Betty,"Commander of the ""Eastern"" troop",196cm,34 years old,"457,000,000",alive,130,74
-666,Morley,Commander of the “Western” troop,1253cm,160 years,"293,000,000",alive,130,75
-667,Lindbergh,Commander of the “Southern” Troop,149cm,37 years,"316,000,000",alive,130,
-668,Inazuma,Deputy Commander of Troop “G”,228cm,29 years,"100,000,000",alive,130,34
-669,Duck,"Commander of the ""Eastern"" troop",,,,alive,130,
-670,Koala,Lieutenant,160cm,23 years,,alive,130,
-671,Hack,Soldier,280cm,38 years old,,alive,130,
-672,Zala,Special Agent,187cm,28 years,"35,000,000",alive,131,10
-673,Bentham,Special Agent,238cm,32 years old,"32,000,000",alive,131,9
-674,Marianne,Special Agent,145cm,18 years old,"29,000,000",alive,131,
-675,Babe,Special Agent,218cm,30 years,"3,200,000",alive,131,
-676,Lassou,Special Agent,,,,alive,131,95
-677,Drophy,Special Agent,156cm,51 years old,"14,000,000",alive,131,94
-678,Gem,Special Agent,197cm,26 years,"10,000,000",alive,131,5
-679,Mikita,Special Agent,177cm,24 years,"7,500,000",alive,131,4
-680,Jabura,Cipher Pol n°9,212cm,37 years,,alive,132,100
-681,Blueno,Cipher Pol n°9,258cm,32 years old,,alive,132,16
-682,Kumadori,Cipher Pol n°9,338cm,36 years,,alive,132,
-683,Fukuro,Cipher Pol n°9,331cm,31 years,,alive,132,
-684,Kalifa,Cipher Pol n°9,185cm,27 years old,,alive,132,17
-685,Nero,Cipher Pol n°9,202cm,22 years old,,alive,132,
-686,Spandina,Cipher Pol n°9,275cm,66 years old,,alive,132,
-687,Kuzan / Aokiji,Admiral,298cm,49 years,,alive,133,84
-688,Morgan,Colonel,285cm,44 years,,alive,133,
-689,Bellamy,Soldier,240cm,27 years old,"195,000,000",alive,21,13
-690,Bartholomew Kuma,Lieutenant,689cm,47 years,"296,000,000",alive,134,25
-691,Caesar Clown,,309cm,40 years,"300,000,000",alive,118,89
-692,Morgans,World Economic Journal (boss),305cm,53 years,,alive,145,109
-693,El Gorago,Captain,,,"10,000,000",alive,,151
-694,Golass,Captain,,,"8,000,000",alive,,
-695,Tobio,,,,,alive,,
-696,Ganzo,,,,,alive,,
-697,Woonan,Captain,,,"60,000,000",deceased,,
-698,Bear King,Captain,,,"11,600,000",alive,72,154
-699,Honey Queen,,,,"7,800,000",alive,72,184
-700,Joker Pin,,,,"9,900,000",alive,72,
-701,Jack Boo,,,,"3,200,000",alive,72,
-702,Skunk One,,,,"6,000,000",alive,72,
-703,Borodo,,,,,alive,135,
-704,Akisu,,,,,alive,135,
-705,Bulter,Earl Butler,,,"14,900,000",alive,,
-706,Hotdog,General Hotdog,,,"4,000,000",alive,,
-707,Mobambi,King,,,,alive,,
-708,Heaby,President Heaby,,,"4,200,000",alive,,
-709,General Gasparde,Captain,,,"95,000,000",alive,73,190
-710,Needless,,,,"57,000,000",alive,73,
-711,Biera,,,,,alive,73,
-712,Shuraiya Bascud,,,20 years,,alive,73,
-713,Adelle Bascùd,,,11 years old,,alive,73,
-714,Saga,,,,,alive,137,
-715,Toma,,,,,alive,137,
-716,Bismarck,,,,,alive,137,
-717,Boo Kong,,,,,alive,137,
-718,Maya,Priestess,,,,alive,137,
-719,Izaya,Priestess,,,,alive,137,
-720,Lacos,Chief Warrior,,,,alive,137,
-721,Omatsuri,Captain,,,,deceased,138,
-722,Lily Carnation,Captain,,,,deceased,138,
-723,Dad,Captain,,,,unknown,139,
-724,Brief,Captain,,,,unknown,140,
-725,Ratchet,Feudal Lord,,,,alive,141,
-726,Honki,Colonel,,,,alive,141,
-727,Maji,General,,,,alive,141,
-728,Roba,Inhabitant,,,,alive,141,
-729,Musshul,Prince,,,,alive,103,158
-730,Scarlett,,,,,alive,45,
-731,Billy,,,,,alive,45,
-732,Xiao,,,,,alive,45,
-733,Schneider,Captain,,,,alive,67,
-734,Buzz,,,,,alive,67,191
-735,Zephyr,Chief,348cm,72 years old,,deceased,142,
-736,Ain,Vice Admiral,174cm,,,alive,142,162
-737,Bins,Lieutenant,435cm,,,alive,142,161
-738,Gild Tesoro,Owner,,41 years,,alive,143,175
-739,Baccarat,Concierge,,,,alive,143,176
-740,Dice,Dealer,,,,alive,143,
-741,Tanaka,Security officer,,,,alive,143,171
-742,Carina,Owner,,19 years old,,alive,143,
-743,Douglas Bullet,,,45 years old,,alive,,186
-744,Buena Festa,,,,,alive,,
-745,Ann,,,,,alive,,179
-746,Donald Moderate,,,,,alive,,
-747,Uta,Inhabitant,,21 years old,,alive,144,
-748,Gordon,Inhabitant,,,,alive,144,
-749,Tenguyama Hitetsu,Black-smith,,81 years old,,alive,117,
-750,Gion,Vice Admiral,,,,alive,,
-751,Musshuru,,,33 Years,,alive,,158
-752,Apis,,,,,alive,,
-753,Bokuden,,,,,alive,,
-754,Orlombus,Admiral,480cm,42 years old,"148,000,000",alive,57,
-755,Macro,Captain,,,,alive,81,
-756,Pudding Pudding,Commodore,,,,deceased,82,
-757,Pandaman,Fighter,200cm,,,unknown,,
-758,Zenny,Usurer,,,,alive,,
-759,Wetton,Mayor,,,"14,800,000",deceased,,
-760,Bigalo,,,,"14,900,000",,149,
-761,Vegapunk,Scientist,"""",65,,alive,,198
-762,Stronger,Doc Q's horse,,,,alive,22,205
-763,Punk 01 - Shaka,Vegapunk - the good,,,,unknown,,
-764,Punk 02 - Lilith,Vegapunk - evil,,,,alive,,
-765,Punk 03 - Edison,Vegapunk - inventiveness,,,,alive,,
-766,Punk 04 - Pythagoras,Vegapunk - knowledge,,,,alive,,
-767,Punk 05 - Atlas,Vegapunk - violence,,,,alive,,
-768,Punk 06 - York,Vegapunk - desire,,,,alive,,
-769,S-Snake,Seraph-type pacifistas,,,,alive,,31
-770,S-Hawk,Seraph-type pacifistas,,,,alive,,11
-771,S-Bear,Seraph-type pacifistas,,,,alive,,25
-772,S-Shark,Seraph-type pacifistas,,,,alive,,53
-773,Karazu,Captain,,,,alive,130,
+character_id,name,job,size,age,bounty,status,crew_id
+1,Monkey D Luffy,Captain,174cm,19 years old,"1,500,000,000",alive,1
+2,Roronoa Zoro,Right arm,181cm,21 years old,"320,000,000",alive,1
+3,Nami,Navigator,170cm,20 years,"66,000,000",alive,1
+4,Usopp,Sniper,176cm,19 years old,"200,000,000",alive,1
+5,Sanji,To cook,180cm,21 years old,"330,000,000",alive,1
+6,Tony-Tony Chopper,Doctor,90cm,17 years,100,alive,1
+7,Nico Robin,Archaeologist,188cm,30 years,"130,000,000",alive,1
+8,Frankie,Carpenter,240cm,36 years,"94,000,000",alive,1
+9,Brook,Musician,277cm,90 years old,"83,000,000",alive,1
+10,Jinbe,Helmsman,301cm,46 years,"438,000,000",alive,1
+11,Zeus,Nami Weapon,232cm,,,alive,1
+12,Cavendish,Captain,208cm,26 years,"330,000,000",alive,87
+13,Suleiman,Fighter,240cm,40 years,"670,000,000",alive,87
+14,Bartolomeo,Captain,220cm,24 years,"200,000,000",alive,87
+15,Gambia,Advise,,,"670,000,000",alive,87
+16,Sai,13th command-in-chief,242cm,28 years,"210,000,000",alive,87
+17,Boo,second in command,,,,alive,87
+18,Baby 5,,181cm,24 years,,alive,87
+19,Idea,Captain,225cm,22 years old,,alive,87
+20,Blue Gilly,,314cm,24 years,,alive,87
+21,Abdullah,,,,,alive,87
+22,And I,,,,,alive,87
+23,Leo,Captain,23cm,25 years,,alive,87
+24,Kabu,,,,,alive,87
+25,Bee Anne,,,,,alive,87
+26,Hajrudin,Captain,"2,200cm",81 years old,,alive,87
+27,Stansen,Carpenter,,,,alive,87
+28,road,Navigator,,63 years old,,alive,87
+29,Goldberg,To cook,,63 years old,,alive,87
+30,Gerd,Doctor,,75 years old,,alive,87
+31,Orlumbus,Admiral,480cm,42 years old,"148,000,000",alive,87
+32,Baggy / The Clown,President,192cm,39 years old,"150,000,000",alive,88
+33,Alvida,,198cm,27 years old,"5,000,000",alive,88
+34,Galdino,,179cm,37 years,"24,000,000",alive,88
+35,Morge,,197cm,29 years,,alive,88
+36,Cabaji,,208cm,34 years old,,alive,88
+37,Kuro,Captain,207cm,35 years,"16,000,000",alive,7
+38,Sham,Officer,201cm,23 years,"7,000,000",alive,7
+39,Buchi,Officer,216cm,23 years,"7,000,000",alive,7
+40,Krieg / Don Krieg,Captain,243cm,44 years,"17,000,000",alive,8
+41,Gyn,Vice Admiral,186cm,27 years old,"12,000,000",alive,8
+42,Pearl,Captain (2nd battalion),239cm,25 years,,alive,8
+43,Montblanc Cricket,Commander in chief,242cm,43 years,"25,000,000",alive,17
+44,Masira,,345cm,25 years,"23,000,000",alive,17
+45,Shojo,,351cm,27 years old,"36,000,000",alive,17
+46,Foxy,Captain,180cm,38 years old,"24,000,000",alive,24
+47,Porch,Fighter,,,,alive,24
+48,Hamburg,Fighter,,,,alive,24
+49,Gecko Moria,Captain,692cm,50 years,"320,000,000",alive,28
+50,Hogback,Mysterious Four,223cm,47 years,,alive,28
+51,Absalom,Mysterious Four,195cm,36 years,,deceased,28
+52,Perona,Mysterious Four,160cm,25 years,,alive,28
+53,Laura,Captain,215cm,26 years,"24,000,000",alive,29
+54,Trafalgar D. Water Law,Captain,191cm,26 years,"500,000,000",alive,32
+55,Bepo,Navigator,240cm,22 years old,500,alive,32
+56,Jean Bart,,,-,,alive,32
+57,Shachi,,,27 years old,,alive,32
+58,Penguin,,,28 years,,alive,32
+59,Eustass Kidd,Captain,205cm,23 years,"470,000,000",alive,33
+60,Killer,Fighter,195cm,27 years old,"200,000,000",alive,33
+61,Heat,Fighter,,,,alive,33
+62,Wire,Captain,,,,alive,33
+63,Capone Beige,Captain,166cm,42 years old,"350,000,000",alive,38
+64,Vito,Advise,242cm,36 years,"95,000,000",alive,38
+65,Gotti,Assassin,375cm,33 Years,"90,000,000",alive,38
+66,Charlotte Chiffon,,215cm,26 years,,alive,38
+67,Charlotte Pets,,,1 year,,alive,38
+68,Jewelry Bonney,Captain,174cm,24 years,"140,000,000",alive,38
+69,Urouge,Captain,388cm,47 years,"108,000,000",alive,39
+70,Boa Hancock,Captain,191cm,31 years,"80,000,000",alive,41
+71,Boa Sandersonia,,453cm,30 years,"40,000,000",alive,41
+72,Boa Marigold,,432cm,28 years,"40,000,000",alive,41
+73,Margaret,,178cm,18 years old,,alive,41
+74,Shiki,Admiral,,,,alive,45
+75,Indigo,,,,,alive,45
+76,Caribou,Co-Captain,228cm,32 years old,"210,000,000",alive,49
+77,Coribou,Co-Captain,250cm,29 years,"190,000,000",alive,49
+78,File Tiger,Captain,4520cm,48 years old,"230,000,000",deceased,26
+79,Aladdin,Vice-Captain,627cm,46 years,,alive,26
+80,Charlotte Praline,,800cm,29 years,,alive,26
+81,Dracule Mihawk,,198cm,43 years,,alive,
+82,Crocodile,,253cm,46 years,"81,000,000",alive,
+83,Das Bones,,212cm,31 years,"75,000,000",alive,
+84,Edward Weeble,,680cm,35 years,"480,000,000",alive,
+85,Shanks,Captain,199cm,39 years old,"4,048,900,000",alive,2
+86,Ben Beckmann,Vice-Captain,206cm,50 years,,alive,2
+87,Lucky Roo,Lieutenant,241cm,35 years,,alive,2
+88,Yassop,Lieutenant,183cm,47 years,,alive,2
+89,Limejuice,Lieutenant,,,,alive,2
+90,Bonk Punch,Lieutenant,,,,alive,2
+91,Monster,Lieutenant,,,,alive,2
+92,Building Snake,Lieutenant,,,,alive,2
+93,Hongo,Lieutenant,,,,alive,2
+94,Howling Dab,Lieutenant,,,,alive,2
+95,Rockstar,,,,"94,000,000",alive,2
+96,Charlotte Linlin / Big Mom,Captain,880cm,68 years old,"4,388,000,000",alive,53
+97,Charlotte Houndtooth,General Sweet,509cm,48 years old,"1,057,000,000",alive,53
+98,Charlotte Smoothie,General Sweet,464cm,35 years,"932,000,000",alive,53
+99,Charlotte Cracker,General Sweet,307cm,45 years old,"860,000,000",alive,53
+100,Charlotte Slurp,Lieutenant,333cm,50 years,"700,000,000",alive,53
+101,Charlotte Daifuku,Lieutenant,489cm,48 years old,"300,000,000",alive,53
+102,Charlotte Oven,Lieutenant,492cm,48 years old,"300,000,000",alive,53
+103,Charlotte Almond,Lieutenant,,47 years,,alive,53
+104,Charlotte Opera,Lieutenant,,46 years,,alive,53
+105,Charlotte Brûlée,Lieutenant,350cm,43 years,,alive,53
+106,Charlotte Mont d'Or,Lieutenant,260cm,38 years old,"120,000,000",alive,53
+107,Charlotte Galette,Lieutenant,,31 years,,alive,53
+108,Charlotte Snack,Lieutenant,,30 years,"600,000,000",alive,53
+109,Charlotte Pudding,Lieutenant,166cm,16 years old,,alive,53
+110,Charlotte Flampée,Lieutenant,170cm,15 years,,alive,53
+111,Charlotte Compote,Officer,,49 years,,alive,53
+112,Charlotte Mondé,Officer,,47 years,,alive,53
+113,Charlotte Hachée,Officer,,47 years,,alive,53
+114,Charlotte Effilee,Officer,,47 years,,alive,53
+115,Charlotte Counter,Officer,,46 years,,alive,53
+116,Charlotte Cadenza,Officer,,46 years,,alive,53
+117,Charlotte Cabaletta,Officer,,46 years,,alive,53
+118,Charlotte Gala,Officer,,46 years,,alive,53
+119,Charlotte Angel,Officer,,45 years old,,alive,53
+120,Charlotte Cream,Officer,,45 years old,,alive,53
+121,Charlotte Zuccoto,Officer,,44 years,,alive,53
+122,Charlotte Broyée,Officer,,43 years,,alive,53
+123,Charlotte Nusstorte,Officer,,42 years old,,alive,53
+124,Charlotte Basskarte,Officer,,42 years old,,alive,53
+125,Charlotte Dosmarché,Officer,,42 years old,,alive,53
+126,Charlotte Hazelnut,Officer,,41 years,,alive,53
+127,Charlotte Moscato,Officer,,40 years,,alive,53
+128,Charlotte Mash,Officer,,40 years,,alive,53
+129,Charlotte Cornstarch,Officer,,40 years,,alive,53
+130,Charlotte Compo,Officer,,39 years old,,alive,53
+131,Charlotte Laurin,Officer,,39 years old,,alive,53
+132,Charlotte Mozart,Officer,,37 years,,alive,53
+133,Charlotte Marnier,Officer,,37 years,,alive,53
+134,Charlotte High-Fat,Officer,,36 years,,alive,53
+135,Charlotte Tablet,Officer,,36 years,,alive,53
+136,Charlotte Lemon,Officer,,35 years,,alive,53
+137,Charlotte Cinnamon,Officer,,35 years,,alive,53
+138,Charlotte Saint-Marc,Officer,,34 years old,,alive,53
+139,Charlotte Basans,Officer,,33 Years,,alive,53
+140,Charlotte Mélisée,Officer,,33 Years,,alive,53
+141,Charlotte Dacquoise,Officer,,32 years old,,alive,53
+142,Charlotte Pear,Officer,,31 years,,alive,53
+143,Charlotte Bavarian,Officer,,30 years,,alive,53
+144,Charlotte Prim,Officer,,29 years,,alive,53
+145,Charlotte Kanten,Officer,,28 years,,alive,53
+146,Charlotte Kato,Officer,,28 years,,alive,53
+147,Charlotte Montb,Officer,,28 years,,alive,53
+148,Charlotte Chiboust,Officer,,27 years old,,alive,53
+149,Charlotte Mobile,Officer,,25 years,,alive,53
+150,Charlotte Marble,Officer,,25 years,,alive,53
+151,Charlotte Mucre,Officer,,25 years,,alive,53
+152,Charlotte Mapple,Officer,,25 years,,alive,53
+153,Charlotte Brownie,Officer,,24 years,,alive,53
+154,Charlotte Mona Lisa,Officer,,23 years,,alive,53
+155,Charlotte Raisin,Officer,,22 years old,,alive,53
+156,Charlotte Panna,Officer,,21 years old,,alive,53
+157,Charlotte Mascarpone,Officer,,20 years,,alive,53
+158,Charlotte Joscarpone,Officer,,20 years,,alive,53
+159,Charlotte Yu Yuan,Officer,,19 years old,,alive,53
+160,Charlotte Newichi,Officer,,18 years old,,alive,53
+161,Charlotte Newji,Officer,,18 years old,,alive,53
+162,Charlotte Newsan,Officer,,18 years old,,alive,53
+163,Charlotte Newshi,Officer,,18 years old,,alive,53
+164,Charlotte Newgo,Officer,,18 years old,,alive,53
+165,Charlotte Nutmeg,Officer,,18 years old,,alive,53
+166,Charlotte Muscadia,Officer,,18 years old,,alive,53
+167,Charlotte Muscadelle,Officer,,18 years old,,alive,53
+168,Charlotte Muscadine,Officer,,18 years old,,alive,53
+169,Charlotte Muscadette,Officer,,18 years old,,alive,53
+170,Charlotte Nougat,Officer,,17 years,,alive,53
+171,Charlotte English,Officer,,14 years old,,alive,53
+172,Charlotte Wafers,Officer,,13 years,,alive,53
+173,Charlotte Wiro,Officer,,12 years,,alive,53
+174,Charlotte De-Chat,Officer,,11 years old,,alive,53
+175,Charlotte Normande,Officer,,10 years,,alive,53
+176,Charlotte Dolce,Officer,,9 years,,alive,53
+177,Charlotte Dragée,Officer,,9 years,,alive,53
+178,Charlotte Anana,Officer,,8 years,,alive,53
+179,Pekoms,Fighter,232cm,27 years old,"330,000,000",alive,53
+180,Deloeuf,Fighter,301cm,46 years,"429,000,000",alive,53
+181,Boddin,Fighter,,,"155,000,000",alive,53
+182,Streusen,To cook,140cm,92 years old,,alive,53
+183,Prometheus,Homie,239cm,,,alive,53
+184,Napoleon,Homie,,,,alive,53
+185,Hera,Homie,,,,alive,53
+186,Kingbaum,Homie,"2,340cm",,,deceased,53
+187,Kaido,Captain,710cm,59 years old,"4,611,100,000",alive,44
+188,King,Super star,613cm,47 years,"1,390,000,000",alive,44
+189,Queen,Super star,612cm,56 years old,"1,320,000,000",alive,44
+190,Jack,Super star,730cm,28 years,"1,000,000,000",alive,44
+191,PageOne,Tobi Roppo,171cm,20 years,"290,000,000",alive,44
+192,Ulti,Tobi Roppo,173cm,22 years old,"400,000,000",alive,44
+193,Who's Who,Tobi Roppo,336cm,38 years old,"546,000,000",alive,44
+194,Black Maria,Tobi Roppo,820cm,29 years,"480,000,000",alive,44
+195,Sasaki,Tobi Roppo,318cm,34 years old,"472,000,000",alive,44
+196,Sheep's Head,Featured,293cm,24 years,,alive,44
+197,Basil Hawkins,Featured,210cm,31 years,"320,000,000",alive,44
+198,Holdem,Featured,312cm,30 years,,alive,44
+199,Speed,Featured,298cm,24 years,,alive,44
+200,Trouduc,Featured,,,,alive,44
+201,Lousy,Featured,,,,alive,44
+202,Lonely,Featured,,,,alive,44
+203,Bao Huang,Featured,,,,alive,44
+204,Ginrummy,Featured,,,,alive,44
+205,Plou,Featured,,,,alive,44
+206,Briscola,Featured,,,,alive,44
+207,Fourtricks,Featured,,,,alive,44
+208,Hamlet,Featured,,,,alive,44
+209,Mizerka,Featured,,,,alive,44
+210,Poker,Featured,,,,alive,44
+211,Batman,Gifters,,,,alive,44
+212,Gazelleman,Gifters,,,,alive,44
+213,Mouseman,Gifters,,,,alive,44
+214,Snakeman,Gifters,,,,alive,44
+215,Rabitman,Gifters,,,,alive,44
+216,Sarehebi,Gifters,,,,alive,44
+217,Alpacaman,Gifters,,,,alive,44
+218,Armadillo,Gifters,,,,alive,44
+219,Dachoman,Gifters,,,,alive,44
+220,Tenjo-Sagari,Gifters,,,,alive,44
+221,Caimanlady,Gifters,,,,alive,44
+222,Nuré-Onna,Gifters,,,,alive,44
+223,Wa-Nyudo,Gifters,,,,alive,44
+224,Inbi,numbers,,,,alive,44
+225,Fuga,numbers,,,,alive,44
+226,Zanki,numbers,,,,alive,44
+227,Jaki,numbers,,,,alive,44
+228,Goki,numbers,,,,alive,44
+229,Rokki,numbers,,,,alive,44
+230,Nangi,numbers,,,,alive,44
+231,Hacha,numbers,,,,alive,44
+232,Kunyun,numbers,,,,alive,44
+233,Juki,numbers,,,,alive,44
+234,Fukurokuju,,,,,alive,44
+235,Daikoku,Samurai,,,,alive,44
+236,Hanzo,Samurai,,,,alive,44
+237,Sarutobi,Samurai,,,,alive,44
+238,Kazekage,Samurai,,,,alive,44
+239,Jigoku Benten,Samurai,,,,alive,44
+240,Fujin,Samurai,,,,alive,44
+241,Raijin,Samurai,,,,alive,44
+242,Bishamon,Samurai,,,,alive,44
+243,Tohomé,Samurai,,,,alive,44
+244,Yazaemon,Samurai,,,,alive,44
+245,Hotei,Samurai,,,,alive,44
+246,Scratchmen Apoo,Informant,,,,alive,44
+247,Marshall D. Teach / Blackbeard,Pirate,344cm,40 years,"2,247,600,000",alive,22
+248,Jesus Burgess,Commander of the Admiral,355cm,29 years,"20,000,000",alive,22
+249,Shiliew,Commander 2nd Ship,340cm,44 years,,alive,22
+250,Van Auger,Commander 3rd Ship,340cm,27 years old,"64,000,000",alive,22
+251,Avalo Pizarro,Commander 4th Ship,505cm,42 years old,,alive,22
+252,Lafitte,Commander 5th Ship,340cm,41 years,"42,200,000",alive,22
+253,Catarina Devon,Commander 6th Ship,361cm,36 years,,alive,22
+254,Sanjuan Wolf,Commander 7th Ship,"18,000cm",99 years old,,alive,22
+255,Vasco Shot,Commander 8th Ship,573cm,38 years old,,alive,22
+256,Doc Q,Commander 9th Ship,352cl,28 years,"72,000,000",alive,22
+257,Pink Beard,,,,"52,000,000",alive,22
+258,Gol D.Roger,Captain,274cm,53 years,"5,564,800,000",deceased,5
+259,Silvers Rayleigh,Right arm,188cm,78 years old,,alive,5
+260,Scopper Gaban,Carpenter,,,,alive,5
+261,Seagull Guns Nozdon,,,,,alive,5
+262,Taro,,,,,alive,5
+263,Dringo,,,,,alive,5
+264,Sanjuan Wolf,,,,,alive,5
+265,Millet Pine,,,,,alive,5
+266,Ganryu,,,,,alive,5
+267,CB Galant,,,,,alive,5
+268,Donquino,,,,,alive,5
+269,Mr Momora,,,,,alive,5
+270,Moon Isaac Jr.,,,,,alive,5
+271,Yui,,,,,alive,5
+272,Rangram,,,,,alive,5
+273,Colonel Mugren,,,,,alive,5
+274,Max Marks,,,,,alive,5
+275,Spencer,,,,,alive,5
+276,Bankro,,,,,alive,5
+277,Blumarine,,,,,alive,5
+278,Elio,,,,,alive,5
+279,Rowing,,,,,alive,5
+280,Jacsonbaner,,,,,alive,5
+281,Yamon,,,,,alive,5
+282,Arlong,Captain,263cm,41 years,"20,000,000",alive,10
+283,Kuroobi,Lieutenant,252cm,38 years old,"9,000,000",alive,10
+284,Smack,Lieutenant,257cm,35 years,"5,500,000",alive,10
+285,Yorki,Captain,,,,deceased,12
+286,Madaisky Mizuta,,,,,deceased,12
+287,Mawaritovsky Mizuta,,,,,deceased,12
+288,Sarquis,,228cm,27 years old,"38,000,000",deceased,147
+289,Edward Newgate / Whitebeard,Captain,666cm,72 years old,"5,046,000,000",deceased,16
+290,Portgas D.Ace,Commander 2nd Ship,185cm,20 years,"550,000,000",deceased,16
+291,Diamond Joz,Commander 3rd Ship,503cm,42 years old,,alive,16
+292,Thatch,Commander 4th Ship,,,,deceased,16
+293,View,Commander 5th Ship,328cm,47 years,,alive,16
+294,Blamenco,Commander 6th Ship,,,,alive,16
+295,Rakuyo,Commander 7th Ship,,,,alive,16
+296,Blenheim,Commander 9th Ship,,,,alive,16
+297,Curiel,Commander 10th Ship,,,,alive,16
+298,Kingdew,Commander 11th Ship,,,,alive,16
+299,Haruta,Commander 12th Ship,,,,alive,16
+300,Atmos,Commander 13th Ship,,,,alive,16
+301,Speed Jill,Commander 14th Ship,,,,alive,16
+302,Fossa,Commander 15th Ship,,,,alive,16
+303,Izou,Commander 16th Ship,,45 years old,,deceased,16
+304,Doma,Subordinate,,,,alive,16
+305,DeCalvan Brothers,Subordinate,,,,alive,16
+306,Squardo,Subordinate,,52 years,"210,000,000",alive,16
+307,Whitey Bay,Subordinate,,,,alive,16
+308,Little Oz Junior,Subordinate,,72 years old,"550,000,000",unknown,16
+309,Mc Guy,Subordinate,,,,alive,16
+310,A.O.,Subordinate,,,,alive,16
+311,Karma,Subordinate,,,,alive,16
+312,Elmy,Subordinate,,,,alive,16
+313,Ramba,Subordinate,,,,alive,16
+314,Delacuaji,Subordinate,,,,alive,16
+315,Zodia,Subordinate,,,,alive,16
+316,Palms,Subordinate,,,,alive,16
+317,Weird,Subordinate,,,,alive,16
+318,Pavlik,Subordinate,,,,alive,16
+319,Vitan,Subordinate,,,,alive,16
+320,Islewan,Subordinate,,,,alive,16
+321,Epoida,Subordinate,,,,alive,16
+322,Kechatch,Subordinate,,,,alive,16
+323,Choi,Subordinate,,,,alive,16
+324,Arthur,Subordinate,,,,alive,16
+325,Hangan,Subordinate,,,,alive,16
+326,Strengthens,Subordinate,,,,alive,16
+327,Andrew,Subordinate,,,,alive,16
+328,Ninth,Subordinate,,,,alive,16
+329,Blondie,Subordinate,,,,alive,16
+330,Nosgarl,Subordinate,,,,alive,16
+331,Amadob,Subordinate,,,,alive,16
+332,Baggaley,Subordinate,,,,alive,16
+333,Wakkem,Subordinate,,,,alive,16
+334,Brew,Subordinate,,,,alive,16
+335,Brocca,Subordinate,,,,alive,16
+336,Rush,Subordinate,,,,alive,16
+337,Great Micheal,Subordinate,,,,alive,16
+338,Zucca,Subordinate,,,,alive,16
+339,Cands,Subordinate,,,,alive,16
+340,Kinga,Subordinate,,,,alive,16
+341,Colscon,Subordinate,,,,alive,16
+342,Agsilly,Subordinate,,,,alive,16
+343,Julius,Subordinate,,,,alive,16
+344,Happygun,Subordinate,,,,alive,16
+345,Sleepy,Subordinate,,,,alive,16
+346,Forliewbs,Subordinate,,,,alive,16
+347,Barbos Bruneriguez / Brown Beard,Captain,691cm,45 years old,"80,060,000",alive,43
+348,Bluejam,Captain,261cm,42 years old,"14,300,000",deceased,46
+349,Porchemy,,320cm,25 years,"3,400,000",deceased,46
+350,Demaro Black,Captain,245cm,36 years,"26,000,000",alive,48
+351,Manjaro,,202cm,,,alive,48
+352,Chocolate,,181cm,26 years,,alive,48
+353,Mounblutain,,294cm,30 years,,alive,48
+354,Drip,,208cm,24 years,,alive,48
+355,Nora Gitsune,,103cm,13 years,,alive,48
+356,Cocoa,,138cm,27 years old,,alive,48
+357,Turco,,258cm,45 years old,,alive,48
+358,Hody Jones,Captain,331cm,30 years,,alive,50
+359,Dosun,Lieutenant,418cm,30 years,,alive,50
+360,Zeo,Lieutenant,325cm,30 years,,alive,50
+361,Daruma,Lieutenant,122cm,30 years,,alive,50
+362,Ikaros Much,Lieutenant,499cm,30 years,,alive,50
+363,Hyozo,Lieutenant,327cm,39 years old,,alive,50
+364,Vander Decken IX,Captain,352cm,35 years,,unknown,51
+365,Don Quixote Doflamingo,Captain,305cm,41 years,"340,000,000",alive,21
+366,Trebol,Chief Lieutenant,349cm,49 years,"99,000,000",alive,21
+367,Diamond,Chief Lieutenant,525cm,45 years old,"99,000,000",alive,21
+368,pica,Chief Lieutenant,470cm,40 years,"99,000,000",alive,21
+369,Vergo,Chief Lieutenant,247cm,41 years,,deceased,21
+370,Sugar,Lieutenant of the Trebol Army,110cm,22 years old,,alive,21
+371,Jora,Lieutenant of the Trebol Army,221cm,61 years old,,alive,21
+372,Lao G,Lieutenant of the Diamond Army,157cm,70 years,"61,000,000",alive,21
+373,Senor Pink,Lieutenant of the Diamond Army,244cm,46 years,"58,000,000",alive,21
+374,Machvise,Lieutenant of the Diamond Army,440cm,52 years,"11,000,000",alive,21
+375,Dellinger,Lieutenant of the Diamond Army,145cm,16 years old,"150,000,000",alive,21
+376,Gladius,Pica Army Lieutenant,260cm,33 Years,"31,000,000",alive,21
+377,Buffalo,Pica Army Lieutenant,696cm,30 years,,alive,21
+378,Monet,Lieutenant,227cm,30 years,,deceased,21
+379,Rocks D. Xebec,Captain,,,,unknown,62
+380,Im Sama,Leader,,,,alive,89
+381,1st Dean,Council of Five Deans,,,,alive,89
+382,2nd Dean,Council of Five Deans,,,,alive,89
+383,3rd Dean,Council of Five Deans,,,,alive,89
+384,4th Dean,Council of Five Deans,,,,alive,89
+385,5th Dean,Council of Five Deans,,,,alive,89
+386,Roswald,,215cm,55 years,,alive,83
+387,Charles,,230cm,24 years,,alive,83
+388,Sharlia,,178cm,17 years,,alive,83
+389,Don Quixote Myosgard,,,,,deceased,83
+390,Jalmack,,,,,alive,83
+391,Guernica,,,,,unknown,90
+392,Rob Lucci,,212cm,30 years,,alive,90
+393,Hittori,,,,,alive,90
+394,Spandam,,192cm,41 years,,alive,90
+395,Funckfreed,,,,,alive,90
+396,Kaku,,193cm,25 years,,alive,90
+397,Stussy,,179cm,,,alive,90
+398,Maha,,,,,alive,90
+399,Jerry,,676cm,46 years,,alive,90
+400,Wanze,,173cm,28 years,,alive,90
+401,Down,,,50 years,,alive,91
+402,And,,,55 years,,alive,91
+403,Kerville,,,44 years,,alive,91
+404,Hannyabal,director,355cm,35 years,,alive,92
+405,Magellan,Deputy Director,425cm,47 years,,alive,92
+406,Domino,Head goalkeeper,,,,alive,92
+407,Saldeath,Chief of the guards,218cm,18 years old,,alive,92
+408,Sadi,Leader of the Demon Guard,183cm,23 years,,alive,92
+409,Minotaur,Bestial Guard,,,,alive,92
+410,Minokoala,Bestial Guard,,,,alive,92
+411,Minorhinoceros,Bestial Guard,,,,alive,92
+412,Minozebra,Bestial Guard,,,,alive,92
+413,Minochihuabua,Bestial Guard,,,,alive,92
+414,Sakazuki / Akainu,Chief Admiral,306cm,55 years,,alive,82
+415,Borsalino / Kizaru,Admiral,302cm,58 years old,,alive,82
+416,Issho/Fujitora,Admiral,270cm,54 years old,,alive,82
+417,Aramaki / Ryokugyu,Admiral,,,,alive,82
+418,Monkey D. Garp,Vice Admiral,287cm,78 years old,,alive,82
+419,Tsuru,Vice Admiral,204cm,76 years old,,alive,82
+420,John Giant,Vice Admiral,,,,alive,82
+421,Comir,Vice Admiral,,,,alive,82
+422,Momonga,Vice Admiral,251cm,48 years old,,alive,82
+423,Onigumo,Vice Admiral,,,,alive,82
+424,Doberman,Vice Admiral,,,,alive,82
+425,Strawberry,Vice Admiral,,,,alive,82
+426,Yamakaji,Vice Admiral,,,,alive,82
+427,Dalmatian,Vice Admiral,,,,alive,82
+428,Bastille,Vice Admiral,,,,alive,82
+429,Smoker,Vice Admiral,209cm,36 years,,alive,82
+430,Maynard,Vice Admiral,,,,alive,82
+431,Tokikake,Vice Admiral,,,,alive,82
+432,Hina,Deputy Admiral,181cm,34 years old,,alive,82
+433,T. Bone,Deputy Admiral,200cm,53 years,,alive,82
+434,Pudding,Rear Admiral,,,,deceased,82
+435,Jenfétro,Rear Admiral,220cm,,,alive,82
+436,Brandnew,Rear Admiral,190cm,56 years old,,alive,82
+437,Very good,Colonel,,,,alive,82
+438,Shu,Colonel,,,,alive,82
+439,Sharinguru,Colonel,,,,alive,82
+440,Tashigi,Colonel,170cm,23 years,,alive,82
+441,Kobby,Colonel,167cm,18 years old,,alive,82
+442,Nezumi,Colonel,182cm,36 years,,alive,82
+443,Don Quijote Rosinante,Lieutenant Colonel,293cm,26 years,,deceased,82
+444,Hermep,Lieutenant,179cm,22 years old,,alive,82
+445,Full body,Lieutenant,184cm,28 years,,alive,82
+446,Jango,Lieutenant,207cm,29 years,,alive,82
+447,Sengoku,Observer,278cm,79 years old,,alive,82
+448,Sentomaru,Captain of the Scientific Brigade,279cm,34 years old,,alive,82
+449,X-Drake,Captain of the Sword,233cm,33 Years,,alive,82
+450,Kaiser Mustache,Vice Admiral,,,,alive,82
+451,Cancer,Vice Admiral,,,,alive,82
+452,Mozambique,Vice Admiral,,,,alive,82
+453,The cross,Vice Admiral,,,,alive,82
+454,Ronz,Vice Admiral,,,,alive,82
+455,Dohn Deynon,Vice Admiral,,,,alive,82
+456,Draw,Vice Admiral,,,,alive,82
+457,Sicily,Deputy Admiral,,,,alive,82
+458,Akehende,Deputy Admiral,,,,alive,82
+459,Catacombo,Deputy Admiral,,,,alive,82
+460,Kadar,Deputy Admiral,,,,alive,82
+461,Daigin,Rear Admiral,,,,alive,82
+462,Gorilla,Colonel,,,,alive,82
+463,Stella,Sovereign,180cm,20 years,,alive,93
+464,Sally Entoilette,Queen,,,,alive,93
+465,Outlook III,Resident of the Upper Town,,,,alive,93
+466,Didit,Resident of the Upper Town,,,,alive,93
+467,Makino,Bar keeper,166cm,31 years,,alive,93
+468,Whoop Slap,Mayor of the village of Fuchsia,,,,alive,93
+469,Curly Dadan,Inhabitant of Mount Corvo,221cm,55 years,,alive,93
+470,Dogra,Inhabitant of Mount Corvo,,,,alive,93
+471,Magra,Inhabitant of Mount Corvo,,,,alive,93
+472,Higuma,Inhabitant,190cm,46 years,,deceased,93
+473,Kozaburo Shimotsuki,Inhabitant,,,,deceased,94
+474,Koshiro,Dojo Master,184cm,51 years old,,alive,94
+475,Kuina,Inhabitant,150cm,11 years old,,deceased,94
+476,Boodle,Mayor of the village of Orange,172cm,75 years old,,alive,95
+477,Pet,Store owner,40cm,14 years old,,alive,95
+478,Gaimone,Guardian,130cm,45 years old,,alive,96
+479,Sarfunkel,Inhabitant,,,,alive,96
+480,Kaya,Medical student,169cm,19 years old,,alive,97
+481,Merry,Butler,,,,alive,97
+482,Onion,Inhabitant of the village of Sirop,124cm,11 years old,,alive,97
+483,Pepper,Inhabitant of the village of Sirop,120cm,11 years old,,alive,97
+484,Carrot,Inhabitant of the village of Sirop,127cm, 11 years old,,alive,97
+485,Banchina,Inhabitant of the village of Sirop,,,,deceased,97
+486,Zeff,Owner and Chef,189cm,67 years old,,alive,98
+487,Patty,Pastry specialist cook,204cm,29 years,,alive,98
+488,Cane,Meat specialist cook,171cm,34 years old,,alive,98
+489,Belmer,Mandarin producer,186cm,30 years,,deceased,99
+490,Nojiko,Mandarin producer,170cm,22 years old,,alive,99
+491,Genzo,Sheriff,173cm,48 years old,,alive,99
+492,Nako,Doctor,,,,alive,99
+493,Chabo,Mandarin producer,,,,alive,99
+494,Johnny,Fisherman,186cm,25 years,,alive,99
+495,Yosaku,Fisherman,185cm,26 years,,alive,99
+496,Ipponmatsu,Gunsmith,157cm,40 years,,alive,100
+four hundred ninety seven,Montblanc Norland,Explorer,220cm,39 years old,,deceased,101
+498,Don Quijote Homing,,,,,deceased,83
+499,Portgas D. Red,,,,,deceased,102
+500,Wapol,King,207cm,29 years,,alive,103
+501,Kinderella,Queen,,,,alive,103
+502,Clover,Library Director,172cm,85 years old,,deceased,104
+503,Nico Olvia,Archaeologist,186cm,33 Years,,deceased,104
+504,Haguar D. Sauro,Vice Admiral,"1,950cm",105 years old,,deceased,104
+505,Ramen,King,,,,unknown,105
+506,Chinjao,,520cm,78 years old,"542,000,000",alive,105
+507,Crocus,Lighthouse keeper,203cm,73 years old,,alive,146
+508,Laboon,Inhabitant,"40,000cm",53 years,,alive,146
+509,Miss Monday,Inhabitant,,,,alive,107
+510,Mr 9,Inhabitant,,,,alive,107
+511,Dorry,Inhabitant,"2,260cm",160 years,,alive,108
+512,Broggy,Inhabitant,2 130cm,160 years,,alive,108
+513,Dolton,Sovereign,218cm,35 years,,alive,109
+514,Kureha,Doctor,188cm,141 years old,,alive,109
+515,Hiluluk,Doctor,213cm,68 years old,,deceased,109
+516,Chess,Chief of Staff,194cm,32 years old,,alive,109
+517,Kuromarimo,Administrator,186cm,30 years,,alive,109
+518,Nefertari Cobra,12th King,182cm,50 years,,alive,110
+519,Nefertari Titi,Queen,,,,deceased,110
+520,Nefertari Vivi,Princess,169cm,18 years old,,alive,110
+521,Igaram,Commander of the Royal Guard,218cm,50 years,,alive,110
+522,Shaka,Deputy Command of the Royal Guard,213cm,41 years,,alive,110
+523,Pell,Deputy Command of the Royal Guard,189cm,35 years,,alive,110
+524,Kaloo,Super Duck Squadron,150cm,16 years old,,alive,110
+525,Long-Lashes,Inhabitant,190cm,17 years,,alive,110
+526,Stomp,Super Duck Squadron,,,,alive,110
+527,Ivan,Super Duck Squadron,,,,alive,110
+528,Cowboy,Super Duck Squadron,,,,alive,110
+529,Bumblebee Jr.,Super Duck Squadron,,,,alive,110
+530,Kentaros,Super Duck Squadron,,,,alive,110
+531,Hikoichi,Super Duck Squadron,,,,alive,110
+532,Koza,Minister of the Environment,177cm,22 years old,,alive,110
+533,Toto,Inhabitant,,,,alive,110
+534,Tonjit, Nomadic,110cm,63 years old,,alive,111
+535,Shelley,Inhabitant,,,,alive,111
+536,Gedatsu,Employee,220cm,31 years,,alive,112
+537,Icebarg,Galley-La Company (director),199cm,40 years,,alive,113
+538,Pauly,Galley-La Company (vice director),195cm,26 years,,alive,113
+539,Peeply Lulu,Galley-La Company (head of coaters and blacksmiths),206cm,33 Years,,alive,113
+540,Tilestone,"Galley-La Company (head of cabinetmakers, caulkers and sailmakers)",255cm,35 years,,alive,113
+541,Zanbai,Galley-La Company (Zanbai union),227cm,35 years,,alive,113
+542,Mozu,Bartender,187cm,21 years old,,alive,113
+543,Kiwi,Bartender,187cm,22 years old,,alive,113
+544,Tommy,Tom's Workers (boss),296cm,67 years old,,deceased,113
+545,Kokoro,stationmaster of Shift Station,168cm,72 years old,,alive,113
+546,Chimney,Shift Station Sunday Stationmaster,115cm,10 years,,alive,113
+547,Gonbei,Inhabitant,,,,alive,113
+548,Yokozuma,Inhabitant,,,,alive,113
+549,Silvers Rayleigh,Inhabitant,188cm,78 years old,,alive,114
+550,Shakuyaku,Inhabitant,186cm,64 years old,,alive,114
+551,Disco,Inhabitant,,,,alive,114
+552,Duval,Inhabitant,470cm,25 years,,alive,114
+553,Heracles,Inhabitant,214cm,51 years old,,alive,115
+554,Loki,Prince,,63 years old,,alive,116
+555,Jorl,Inhabitant,2 150cm,344 years old,,deceased,116
+556,Jarl,Inhabitant,"2,050cm",408 years old,,alive,116
+557,Oimo,Inhabitant,"1,600cm",153 years old,,alive,116
+558,Kaashii,Inhabitant,"1,700cm",156 years old,,alive,116
+559,Sukiyaki Kozuki,Shogun,214cm,81 years old,,alive,117
+560,Oden Kozuki,Lord of Kuri,382cm,39 years old,,deceased,117
+561,Toki Kozuki,Inhabitant,190cm,36 years,,deceased,117
+562,Mononosuke Kozuki,Shogun,110cm,8 years,,alive,117
+563,Hiyori Kozuki,Courtesan,170cm,26 years,,alive,117
+564,Kinémon,Red Scabbards,295cm,36 years,,alive,117
+565,Denjiro,Red Scabbards,306cm,47 years,,alive,117
+566,Izo,Red Scabbards,192cm,45 years old,"510,000,000",deceased,117
+567,Kikunojo,Red Scabbards,287cm,22 years old,,alive,117
+568,Raizo,Red Scabbards,331cm,35 years,,alive,117
+569,Ashura Doji,Red Scabbards,544cm,56 years old,,deceased,117
+570,Kawamatsu,Red Scabbards,271cm,41 years,,alive,117
+571,Shinobu,Red Scabbards,180cm,49 years,,alive,117
+572,Orochi Kurozumi,Shogun,350cm,54 years old,,deceased,117
+573,Kanjuro Kurozumi,Red Scabbards,347cm,34 years old,,alive,117
+574,Semimaru Kurozumi,Kurozumo clan,,,,deceased,117
+575,Higurashi Kurozumi,Kurozumo clan,,,,deceased,117
+576,Ryuma Shimotsuki,Shimotsuki clan,179cm,47 years,,deceased,117
+577,Yasui Shimotsuki,Shimotsuki clan,155cm,71 years old,,deceased,117
+578,Toko,Shimotsuki clan,89cm,8 years,,deceased,117
+579,Onimaru,Inhabitant,428cm,69 years old,,alive,117
+580,Hyogoro,leader of a yakuza clan from the flower capital,100cm,70 years,,alive,117
+581,Omasa,leader of a yakuza clan in the Udon region,,,,alive,117
+582,Tsunagoro,leader of a yakuza clan in the Hakumai region,,,,alive,117
+583,Cho,leader of a yakuza clan from the Ringo region,,,,alive,117
+584,Yatappé,leader of a yakuza clan in the Kibi region,,,,alive,117
+585,Tama,Inhabitant,108cm,8 years,,alive,117
+586,Tsurujo,Inhabitant,191cm,55 years,,alive,117
+587,Komachiyo,Inhabitant,,,,alive,117
+588,Baboumaru,Inhabitant,,,,alive,117
+589,Bunbuku,Inhabitant,,,,alive,117
+590,Yamato,Inhabitant,263cm,28 years,,alive,117
+591,Rock,Yeti Cool Brothers,"4,250cm",25 years,"20,000,000",alive,118
+592,Scotch,Yeti Cool Brothers,"4,250cm",25 years,"20,000,000",alive,118
+593,Smiley,Inhabitant,"15,000cm",4 years,,deceased,118
+594,Riku Dold III,King,261cm,60 years,,alive,119
+595,Scarlett,Princess,,25 years,,deceased,119
+596,Kyros,Commander in chief,268cm,44 years,,alive,119
+597,Viola,Princess,178cm,29 years,,alive,119
+598,Rebecca,Next,171cm,16 years old,,alive,119
+599,Gatz,Inhabitant,,,,alive,119
+600,Tank Lepanto,Inhabitant,,,,alive,119
+601,Guncho,King,,,,alive,120
+602,Manshelly,Princess,,25 years,,alive,120
+603,Zunesha,,35km,"1,000 years",,alive,121
+604,Begis Khan,Lord,,,,alive,121
+605,Caborage,Diurnal Lord / Red Scabbards,511cm,40 years,,alive,121
+606,Chavipere,Night Lord / Red Scabbards,522cm,40 years,,alive,121
+607,Sicilion,Captain of the Musketeers unit,196cm,34 years old,,alive,121
+608,Cancelot,Musketeers Unit,204cm,29 years,,alive,121
+609,Giovanni,Musketeers Unit,226cm,30 years,,alive,121
+610,Wanda,Musketeers Unit,181cm,28 years,,alive,121
+611,Carrot,Musketeers Unit,161cm,15 years,,alive,121
+612,Peter,Musketeers Unit,233cm,32 years old,,deceased,121
+613,Elizabeth II,Sovereign,436cm,57 years old,,alive,122
+614,Dagama,Strategist,,,,alive,122
+615,Kelly Funk,Assassin,168cm,36 years,"57,000,000",alive,123
+616,Bobby Funk,Assassin,320cm,33 Years,"36,000,000",alive,123
+617,Judge Vinsmoke,Sovereign,272cm,56 years old,,alive,124
+618,Sora Vinsmoke,Queen,,,,deceased,124
+619,Reiju Vinsmoke,Princess,173cm,24 years,,alive,124
+620,Ichiji Vinsmoke,Prince,186cm,21 years old,,alive,124
+621,Niji Vinsmoke,Prince,185cm,21 years old,,alive,124
+622,Yonji Vinsmoke,Prince,194cm,21 years old,,alive,124
+623,Marco,Sphinx (doctor) / Command 1st Fleet Whitebeard,203cm,45 years old,"1,374,000,000",alive,125
+624,Gan Forr,God,180cm,68 years old,,alive,126
+625,Rock,Inhabitant,,,,alive,126
+626,Conis,Inhabitant,176cm,21 years old,,alive,126
+627,Paddle,Inhabitant,179cm,54 years old,,alive,126
+628,Amazon,Inhabitant,120cm,79 years old,,alive,126
+629,Chef Shandia,Inhabitant / Shandia Tribe (chief),179cm,65 years,,alive,126
+630,Wipe,Divine Guard / Shandia Tribe,183cm,24 years,,alive,126
+631,Kamakiri,Divine Guard / Shandia Tribe,214cm,24 years,,alive,126
+632,Braham,Divine Guard / Shandia Tribe,179cm,24 years,,alive,126
+633,Genbo,Divine Guard / Shandia Tribe,193cm,25 years,,alive,126
+634,Laki,Inhabitant / Shandia Tribe,179cm,22 years old,,alive,126
+635,Aisa,Inhabitant / Shandia Tribe,140cm,11 years old,,alive,126
+636,Nora,Inhabitant / Shandia Tribe,"20,000cm",400 years,,alive,126
+637,Calgary,Shandia Tribe,222cm,39 years old,,deceased,126
+638,Om,Skypiea (exiled) / Clan Enel (Prelate of the Iron Ordeal),189cm,29 years,,alive,126
+639,Satori,Skypiea (exiled) / Clan Ener (Prelate of the Balloon Ordeal),179cm,27 years old,,alive,126
+640,Shura,Skypiea (exiled) / Clan Ener (Prelate of the Ordeal of the Sons),191cm,33 Years,,alive,126
+641,Yama,Skypiea (exile) / Clan Enel (captain of the holy guard),366cm,45 years old,,alive,126
+642,Hotori,Skypiea (exiled) / Clan Enel (vice captain of the holy guard),179cm,27 years old,,alive,126
+643,Kotori,Skypiea (exiled) / Clan Enel (vice captain of the holy guard),179cm,27 years old,,alive,126
+644,Haredas,Inhabitant,253cm,97 years old,,alive,127
+645,Neptune,Monarch,1220cm,70 years,,alive,128
+646,Otohime,Queen,224cm,36 years,,deceased,128
+647,Fukaboshi,Prince,604cm,24 years,,alive,128
+648,Ryuboshi,Prince,544cm,23 years,,alive,128
+649,Mamboshi,Prince,473cm,20 years,,alive,128
+650,Shirahoshi,Princess,"1,187cm",16 years old,,alive,128
+651,Hoe,Inhabitant,"4,000cm",,,alive,128
+652,Megalo,Inhabitant,"2,500cm",,,alive,128
+653,Minister Senester,Minister Senester,435cm,62 years old,,alive,128
+654,Minister Dextre,Minister Dextre,313cm,55 years,,alive,128
+655,Shyarly,Patron of Café des Sirènes,520cm,29 years,,alive,128
+656,Keimi,Café des Sirènes employee,167cm,18 years old,,alive,128
+657,Pappag,"Founder / Designer of the brand ""Criminal""",50cm,33 Years,,alive,128
+658,Octy,Takoyaki merchant,220cm,38 years old,"8,000,000",alive,128
+659,Den,Carpenter,435cm,62 years old,,alive,128
+660,Ener,Leader,266cm,39 years old,,alive,129
+661,Monkey D.Dragon,Commander in chief,256cm,55 years,,alive,130
+662,Sabo,Chief of Staff,187cm,22 years old,"602,000,000",alive,130
+663,Emporio Ivankov,Command of Troop G,449cm,53 years,"100,000,000",alive,130
+664,Crow,Commander of the “Northern” troop,265cm,47 years,"400,000,000",alive,130
+665,Belo Betty,"Commander of the ""Eastern"" troop",196cm,34 years old,"457,000,000",alive,130
+666,Morley,Commander of the “Western” troop,1253cm,160 years,"293,000,000",alive,130
+667,Lindbergh,Commander of the “Southern” Troop,149cm,37 years,"316,000,000",alive,130
+668,Inazuma,Deputy Commander of Troop “G”,228cm,29 years,"100,000,000",alive,130
+669,Duck,"Commander of the ""Eastern"" troop",,,,alive,130
+670,Koala,Lieutenant,160cm,23 years,,alive,130
+671,Hack,Soldier,280cm,38 years old,,alive,130
+672,Zala,Special Agent,187cm,28 years,"35,000,000",alive,131
+673,Bentham,Special Agent,238cm,32 years old,"32,000,000",alive,131
+674,Marianne,Special Agent,145cm,18 years old,"29,000,000",alive,131
+675,Babe,Special Agent,218cm,30 years,"3,200,000",alive,131
+676,Lassou,Special Agent,,,,alive,131
+677,Drophy,Special Agent,156cm,51 years old,"14,000,000",alive,131
+678,Gem,Special Agent,197cm,26 years,"10,000,000",alive,131
+679,Mikita,Special Agent,177cm,24 years,"7,500,000",alive,131
+680,Jabura,Cipher Pol n°9,212cm,37 years,,alive,132
+681,Blueno,Cipher Pol n°9,258cm,32 years old,,alive,132
+682,Kumadori,Cipher Pol n°9,338cm,36 years,,alive,132
+683,Fukuro,Cipher Pol n°9,331cm,31 years,,alive,132
+684,Kalifa,Cipher Pol n°9,185cm,27 years old,,alive,132
+685,Nero,Cipher Pol n°9,202cm,22 years old,,alive,132
+686,Spandina,Cipher Pol n°9,275cm,66 years old,,alive,132
+687,Kuzan / Aokiji,Admiral,298cm,49 years,,alive,133
+688,Morgan,Colonel,285cm,44 years,,alive,133
+689,Bellamy,Soldier,240cm,27 years old,"195,000,000",alive,21
+690,Bartholomew Kuma,Lieutenant,689cm,47 years,"296,000,000",alive,134
+691,Caesar Clown,,309cm,40 years,"300,000,000",alive,118
+692,Morgans,World Economic Journal (boss),305cm,53 years,,alive,145
+693,El Gorago,Captain,,,"10,000,000",alive,
+694,Golass,Captain,,,"8,000,000",alive,
+695,Tobio,,,,,alive,
+696,Ganzo,,,,,alive,
+697,Woonan,Captain,,,"60,000,000",deceased,
+698,Bear King,Captain,,,"11,600,000",alive,72
+699,Honey Queen,,,,"7,800,000",alive,72
+700,Joker Pin,,,,"9,900,000",alive,72
+701,Jack Boo,,,,"3,200,000",alive,72
+702,Skunk One,,,,"6,000,000",alive,72
+703,Borodo,,,,,alive,135
+704,Akisu,,,,,alive,135
+705,Bulter,Earl Butler,,,"14,900,000",alive,
+706,Hotdog,General Hotdog,,,"4,000,000",alive,
+707,Mobambi,King,,,,alive,
+708,Heaby,President Heaby,,,"4,200,000",alive,
+709,General Gasparde,Captain,,,"95,000,000",alive,73
+710,Needless,,,,"57,000,000",alive,73
+711,Biera,,,,,alive,73
+712,Shuraiya Bascud,,,20 years,,alive,73
+713,Adelle Bascùd,,,11 years old,,alive,73
+714,Saga,,,,,alive,137
+715,Toma,,,,,alive,137
+716,Bismarck,,,,,alive,137
+717,Boo Kong,,,,,alive,137
+718,Maya,Priestess,,,,alive,137
+719,Izaya,Priestess,,,,alive,137
+720,Lacos,Chief Warrior,,,,alive,137
+721,Omatsuri,Captain,,,,deceased,138
+722,Lily Carnation,Captain,,,,deceased,138
+723,Dad,Captain,,,,unknown,139
+724,Brief,Captain,,,,unknown,140
+725,Ratchet,Feudal Lord,,,,alive,141
+726,Honki,Colonel,,,,alive,141
+727,Maji,General,,,,alive,141
+728,Roba,Inhabitant,,,,alive,141
+729,Musshul,Prince,,,,alive,103
+730,Scarlett,,,,,alive,45
+731,Billy,,,,,alive,45
+732,Xiao,,,,,alive,45
+733,Schneider,Captain,,,,alive,67
+734,Buzz,,,,,alive,67
+735,Zephyr,Chief,348cm,72 years old,,deceased,142
+736,Ain,Vice Admiral,174cm,,,alive,142
+737,Bins,Lieutenant,435cm,,,alive,142
+738,Gild Tesoro,Owner,,41 years,,alive,143
+739,Baccarat,Concierge,,,,alive,143
+740,Dice,Dealer,,,,alive,143
+741,Tanaka,Security officer,,,,alive,143
+742,Carina,Owner,,19 years old,,alive,143
+743,Douglas Bullet,,,45 years old,,alive,
+744,Buena Festa,,,,,alive,
+745,Ann,,,,,alive,
+746,Donald Moderate,,,,,alive,
+747,Uta,Inhabitant,,21 years old,,alive,144
+748,Gordon,Inhabitant,,,,alive,144
+749,Tenguyama Hitetsu,Black-smith,,81 years old,,alive,117
+750,Gion,Vice Admiral,,,,alive,
+751,Musshuru,,,33 Years,,alive,
+752,Apis,,,,,alive,
+753,Bokuden,,,,,alive,
+754,Orlombus,Admiral,480cm,42 years old,"148,000,000",alive,57
+755,Macro,Captain,,,,alive,81
+756,Pudding Pudding,Commodore,,,,deceased,82
+757,Pandaman,Fighter,200cm,,,unknown,
+758,Zenny,Usurer,,,,alive,
+759,Wetton,Mayor,,,"14,800,000",deceased,
+760,Bigalo,,,,"14,900,000",,149
+761,Vegapunk,Scientist,"""",65,,alive,
+762,Stronger,Doc Q's horse,,,,alive,22
+763,Punk 01 - Shaka,Vegapunk - the good,,,,unknown,
+764,Punk 02 - Lilith,Vegapunk - evil,,,,alive,
+765,Punk 03 - Edison,Vegapunk - inventiveness,,,,alive,
+766,Punk 04 - Pythagoras,Vegapunk - knowledge,,,,alive,
+767,Punk 05 - Atlas,Vegapunk - violence,,,,alive,
+768,Punk 06 - York,Vegapunk - desire,,,,alive,
+769,S-Snake,Seraph-type pacifistas,,,,alive,
+770,S-Hawk,Seraph-type pacifistas,,,,alive,
+771,S-Bear,Seraph-type pacifistas,,,,alive,
+772,S-Shark,Seraph-type pacifistas,,,,alive,
+773,Karazu,Captain,,,,alive,130

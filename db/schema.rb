@@ -10,20 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_10_11_032550) do
+ActiveRecord::Schema[7.0].define(version: 2023_10_11_045848) do
   create_table "characters", force: :cascade do |t|
     t.string "name"
     t.string "job"
-    t.string "size"
     t.string "age"
-    t.integer "bounty"
+    t.string "size"
+    t.string "bounty"
     t.string "status"
-    t.integer "crew_id", null: false
-    t.integer "fruit_id", null: false
+    t.integer "crew_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["crew_id"], name: "index_characters_on_crew_id"
-    t.index ["fruit_id"], name: "index_characters_on_fruit_id"
   end
 
   create_table "crews", force: :cascade do |t|
@@ -41,10 +39,12 @@ ActiveRecord::Schema[7.0].define(version: 2023_10_11_032550) do
     t.string "roman_name"
     t.string "fruit_type"
     t.text "description"
+    t.integer "character_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["character_id"], name: "index_fruits_on_character_id"
   end
 
   add_foreign_key "characters", "crews"
-  add_foreign_key "characters", "fruits"
+  add_foreign_key "fruits", "characters"
 end
