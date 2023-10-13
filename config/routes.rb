@@ -1,11 +1,16 @@
 Rails.application.routes.draw do
-  get 'about/index'
-  get 'home/index'
-
+  root to: "home#index"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
-  resources :fruits
-  resources :crews
-  resources :characters
-  # Defines the root path route ("/")
-  # root "articles#index"
+
+  # Route to Fruits
+  resources :fruits, only: %i[index show]
+
+  # Route to Crews
+  resources :crews, only: %i[index show]
+
+  # Route to Characters
+  resources :characters, only: %i[index show]
+
+  # Manual Route to About Page
+  get "about", to: "about#index"
 end
