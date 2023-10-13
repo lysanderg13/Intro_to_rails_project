@@ -1,0 +1,41 @@
+For this project our Database will be pulling from 3 Sources from a One Piece API: https://api-onepiece.com/
+
+These three sources are
+- The Characters: https://api-onepiece.com/documentation/13-character
+- The Crews: https://api-onepiece.com/documentation/12-crew
+- The Fruits: https://api-onepiece.com/documentation/2-fruit
+
+Our data will be structured into 3 tables that correspond to the API Endpoints we chose. These tables will be named Characters,
+Crews, and Fruits.
+
+The Characters table will contain the following columns:
+- Id [PK]
+- name
+- job
+- age
+- size
+- bounty
+- status
+- crew_id [FK]
+
+The Crews table will contain the following columns:
+- id [PK]
+- name
+- roman_name
+- total_bounty
+- number_of_members
+- status
+
+The Fruits table will contain the following columns:
+- id [PK]
+- name
+- roman_name
+- fruit_type
+- description
+- character_id [FK]
+
+In terms of table relation we can start first with the Crews Table. This table is needed as it will connected to the Characters
+table via Foreign Key (crew_id) so that users can see which Crew a Character is under. The Fruits table is needed as it provides
+information on the Fruits that provide our characters their abilities/superpowers. We can see which Fruit belongs to which
+character via Foreign Key (character_id). The Characters table is needed as both the Crews and Fruits tables are connected to it.
+It is also the table with the most info and the highlight of the website.
