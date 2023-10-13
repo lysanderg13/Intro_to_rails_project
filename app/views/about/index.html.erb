@@ -2,17 +2,21 @@
 <body>
   <%= render 'shared/navbar' %>
   <%= yield %>
-  <p class ="m3">
-  For this project our Database will be pulling from 3 Sources from a One Piece API: https://api-onepiece.com/=
-  These three sources are
-  - The Characters: https://api-onepiece.com/documentation/13-character
-  - The Crews: https://api-onepiece.com/documentation/12-crew
-  - The Fruits: https://api-onepiece.com/documentation/2-fruit
+  <p class ="ml-3 mr-3">
+    For this project our Database will be pulling from 3 Sources from a One Piece API: https://api-onepiece.com/
+  </p>
+  <p class ="ml-3 mr-3 is-10">
+    - The Characters: https://api-onepiece.com/documentation/13-character
+    <br>
+    - The Crews: https://api-onepiece.com/documentation/12-crew
+    <br>
+    - The Fruits: https://api-onepiece.com/documentation/2-fruit
+    <br>
 
-  In terms of table relation we can start first with the Crews Table. This table is needed as it will connected to the Characters
-  table via Foreign Key (crew_id) so that users can see which Crew a Character is under. The Fruits table is needed as it provides
-  information on the Fruits that provide our characters their abilities/superpowers. We can see which Fruit belongs to which
-  character via Foreign Key (character_id). The Characters table is needed as both the Crews and Fruits tables are connected to it.
-  It is also the table with the most info and the highlight of the website.
-</p>
+    In terms of table relation we can start first with the Crews Table. This table is needed as it will connected to the Characters
+    table via Foreign Key (crew_id) so that users can see which Crew a Character is under. The Fruits table is needed as it provides
+    information on the Fruits that provide our characters their abilities/superpowers. We can see which Fruit belongs to which
+    character via Foreign Key (character_id). The Characters table is needed as both the Crews and Fruits tables are connected to it.
+    It is also the table with the most info and the highlight of the website.
+  </p>
 </body>
