@@ -50,8 +50,14 @@ characters_data.each do |ch|
     status:  ch["status"],
     crew_id: ch["crew_id"]
   )
-  characters.save
-  puts characters.name
+  characters.save if characters.valid?
+  # puts characters.name
+  # puts characters.job
+  # puts characters.size
+  # puts characters.age
+  # puts characters.bounty
+  # puts characters.status
+  # puts characters.crew_id
 end
 puts "Created #{Character.count} Characters."
 
