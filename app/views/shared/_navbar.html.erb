@@ -26,4 +26,20 @@
       </a>
     </div>
   </div>
+
+  <div class="navbar-end">
+    <div class="navbar-item">
+      <%= form_tag(search_path, method: "get", class: "field has-addons") do %>
+        <div class="control">
+          <%= text_field_tag :query, params[:query], class: "input", placeholder: "Search..." %>
+        </div>
+        <div class="control">
+          <%= submit_tag "Search", class: "button is-info" %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+
 </nav>
+
+
