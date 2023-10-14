@@ -1,0 +1,18 @@
+<h1>Search Results for "<%= @query %>":</h1>
+
+<h2>Characters:</h2>
+<% @characters.each do |character| %>
+  <p><%= character.name %></p>
+<% end %>
+
+<h2>Crews:</h2>
+<% @crews.each do |crew| %>
+  <p><%= crew.name %></p>
+<% end %>
+
+<h2>Fruits:</h2>
+<% @fruits.each do |fruit| %>
+  <p><%= fruit.name %></p>
+<% end %>
+
+
