@@ -1,7 +1,15 @@
 <%= stylesheet_link_tag 'application', media: 'all' %>
-<h2 class="title is-2 mt-3 ml-3">Fruits</h2>
+ <h1>One Piece DB</h1>
 <body>
   <%= render 'shared/navbar' %>
   <%= yield %>
+  <h2>Fruits</h2>
+  <p>This is a list of Fruits in One Piece</p>
+  <ol>
+  <% @crews.each do |crew|%>
+    <li>
+      <%= link_to crew.name, crew %>
+    </li>
+  <% end%>
+  </ol>
 </body>
-<p>Find me in app/views/fruits/index.html.erb</p>
