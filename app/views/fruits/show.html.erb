@@ -1,2 +1,10 @@
-<h1>Fruits#show</h1>
-<p>Find me in app/views/fruits/show.html.erb</p>
+<h1>One Piece DB</h1>
+<body>
+  <%= render 'shared/navbar' %>
+  <%= yield %>
+<h3><%= @fruit.roman_name %></h3>
+<p>Fruit Type: <%= @fruit.fruit_type %></p>
+<p>Description: <%= @fruit.description %></p>
+<p>User: <%= @fruit.character_id %></p>
+</body>
+

@@ -1,2 +1,11 @@
-<h1>Characters</h1>
-<p>This is a list of Characters in One Piece</p>
+<h1>One Piece DB</h1>
+<body>
+  <%= render 'shared/navbar' %>
+  <%= yield %>
+<h3><%= @character.name %></h3>
+<p>Job: <%= @character.job %></p>
+<p>Height: <%= @character.size %></p>
+<p>Age: <%= @character.age %></p>
+<p>Bounty: <%= @character.bounty %></p>
+<p>Status: <%= @character.status %></p>
+</body>
