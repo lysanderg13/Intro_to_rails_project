@@ -1,18 +1,37 @@
-<h1>Search Results for "<%= @query %>":</h1>
+<%= stylesheet_link_tag 'application', media: 'all' %>
+<h2 class="title is-2 mt-3 ml-3">Search</h2>
+<body>
+  <%= render 'shared/navbar' %>
+  <%= yield %>
+</body>
 
-<h2>Characters:</h2>
-<% @characters.each do |character| %>
-  <p><%= character.name %></p>
+<% if @query.present? %>
+  <h2>Search Results for "<%= @query %>":</h2>
+
+  <% if @characters.present? %>
+    <h2>Characters:</h2>
+    <% @characters.each do |character| %>
+      <p><%= character.name %></p>
+    <% end %>
+  <% end %>
+
+  <% if @crews.present? %>
+    <h2>Crews:</h2>
+    <% @crews.each do |crew| %>
+      <p><%= crew.name %></p>
+    <% end %>
+  <% end %>
+
+  <% if @fruits.present? %>
+    <h2>Fruits:</h2>
+    <% @fruits.each do |fruit| %>
+      <p><%= fruit.name %></p>
+    <% end %>
+  <% end %>
+
+  <% if @characters.blank? && @crews.blank? && @fruits.blank? %>
+    <p>No results found.</p>
+  <% end %>
+<% else %>
+  <h2>Nothing was queried. Please try again and input something!</h2>
 <% end %>
-
-<h2>Crews:</h2>
-<% @crews.each do |crew| %>
-  <p><%= crew.name %></p>
-<% end %>
-
-<h2>Fruits:</h2>
-<% @fruits.each do |fruit| %>
-  <p><%= fruit.name %></p>
-<% end %>
-
-
