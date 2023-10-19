@@ -11,8 +11,8 @@ Rails.application.routes.draw do
   # Route to Characters
   resources :characters, only: %i[index show]
 
-  #Route to Search Results
-  get 'search', to: 'search#search'
+  # Route to Search Results
+  get "search", to: "search#search"
 
   # Manual Route to About Page
   get "about", to: "about#index"

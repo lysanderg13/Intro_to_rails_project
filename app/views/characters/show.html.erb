@@ -3,6 +3,7 @@
   <%= render 'shared/navbar' %>
   <%= yield %>
 <h3><%= @character.name %></h3>
+<p>Crew: <%= link_to @character.crew.name, @character.crew %></p>
 <p>Job: <%= @character.job %></p>
 <p>Height: <%= @character.size %></p>
 <p>Age: <%= @character.age %></p>

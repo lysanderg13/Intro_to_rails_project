@@ -1,6 +1,7 @@
 class FruitsController < ApplicationController
   def index
-    @fruits = Fruit.all.order("id ASC")
+    @fruits = Fruit.page(params[:page]).per(20)
+    @fruit_number_offset = (@fruits.current_page - 1) * @fruits.limit_value
   end
 
   def show

@@ -1,11 +1,16 @@
 <h1><%= @crew.name %></h1>
 <h3><%= @crew.roman_name %></h3>
-<p>Total Bounty: <%= @crew.total_bounty %></p>
-<p>Members:</p>
-<ul>
-  <% @crew.characters.each do |character|%>
-  <li><%= link_to character.name, character %></li>
-  <% end %>
-</ul>
-<p>Status: <%= @crew.status %></p>
+<body>
+  <%= render 'shared/navbar' %>
+  <%= yield %>
+  <p>Total Bounty: <%= @crew.total_bounty %></p>
+  <p>Members:</p>
+  <ul>
+    <% @crew.characters.each do |character|%>
+    <li><%= link_to character.name, character %></li>
+    <% end %>
+  </ul>
+  <p>Status: <%= @crew.status %></p>
+</body>
+
 

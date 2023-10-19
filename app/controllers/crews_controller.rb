@@ -1,6 +1,7 @@
 class CrewsController < ApplicationController
   def index
-    @crews = Crew.includes(:characters).all.order("id ASC")
+    @crews = Crew.page(params[:page]).per(20)
+    @crew_number_offset = (@crews.current_page - 1) * @crews.limit_value
   end
 
   def show
