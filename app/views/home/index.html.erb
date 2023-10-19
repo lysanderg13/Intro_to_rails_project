@@ -4,55 +4,52 @@
   <%= render 'shared/navbar' %>
   <%= yield %>
 
-  <div class="columns">
-    <div class="column">
-      <h2>Characters</h2>
-      <ol class="ml-5">
-        <% @characters.each do |character| %>
-          <li>
-            <%= link_to character.name, character %>
-          </li>
-        <% end %>
-      </ol>
-      <p class="mt-1">
-        <strong>
-          <%= link_to ' See all Characters', characters_path %>
-        </strong>
-      </p>
+  <div class="container text-center" id ="home_columns">
+    <div class="row justify-content-start">
+      <div class="col">
+        <h2>Characters</h2>
+          <% @characters.each do |character| %>
+            <li>
+              <%= link_to character.name, character %>
+            </li>
+          <% end %>
+        <p class="mt-1">
+          <strong>
+            <%= link_to ' See all Characters', characters_path %>
+          </strong>
+        </p>
+      </div>
+      <div class="col">
+        <h2>Crews</h2>
+          <% @crews.each do |crew| %>
+            <li>
+              <%= link_to crew.name, crew %>
+            </li>
+          <% end %>
+        <p class="mt-1">
+          <strong>
+            <%= link_to ' See all Crews', crews_path %>
+          </strong>
+        </p>
+      </div>
+      <div class="col">
+        <h2>Fruits</h2>
+          <% @fruits.each do |fruit| %>
+            <li>
+              <%= link_to fruit.name, fruit %>
+            </li>
+          <% end %>
+        <p class="mt-1">
+          <strong>
+            <%= link_to ' See all Fruits', fruits_path %>
+          </strong>
+        </p>
+      </div>
+    </div>
   </div>
 
-  <div class="columns">
-    <div class="column">
-      <h2>Crews</h2>
-      <ol class="ml-5">
-        <% @crews.each do |crew| %>
-          <li>
-            <%= link_to crew.name, crew %>
-          </li>
-        <% end %>
-      </ol>
-      <p class="mt-1">
-        <strong>
-          <%= link_to ' See all Crews', crews_path %>
-        </strong>
-      </p>
-  </div>
 
-    <div class="columns">
-    <div class="column">
-      <h2>Fruits</h2>
-      <ol class="ml-5">
-        <% @fruits.each do |fruit| %>
-          <li>
-            <%= link_to fruit.name, fruit %>
-          </li>
-        <% end %>
-      </ol>
-      <p class="mt-1">
-        <strong>
-          <%= link_to ' See all Fruits', fruits_path %>
-        </strong>
-      </p>
-  </div>
-</body>
+
+
+
 
