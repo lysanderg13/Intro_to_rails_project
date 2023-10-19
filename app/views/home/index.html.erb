@@ -6,7 +6,7 @@
 
   <div class="columns">
     <div class="column">
-      <h2>Top 10 Characters</h2>
+      <h2>Characters</h2>
       <ol class="ml-5">
         <% @characters.each do |character| %>
           <li>
@@ -14,7 +14,7 @@
           </li>
         <% end %>
       </ol>
-      <p class="mt-5">
+      <p class="mt-1">
         <strong>
           <%= link_to ' See all Characters', characters_path %>
         </strong>
@@ -23,7 +23,7 @@
 
   <div class="columns">
     <div class="column">
-      <h2>Top 10 Crews</h2>
+      <h2>Crews</h2>
       <ol class="ml-5">
         <% @crews.each do |crew| %>
           <li>
@@ -31,7 +31,7 @@
           </li>
         <% end %>
       </ol>
-      <p class="mt-5">
+      <p class="mt-1">
         <strong>
           <%= link_to ' See all Crews', crews_path %>
         </strong>
@@ -40,7 +40,7 @@
 
     <div class="columns">
     <div class="column">
-      <h2>Top 10 Fruits</h2>
+      <h2>Fruits</h2>
       <ol class="ml-5">
         <% @fruits.each do |fruit| %>
           <li>
@@ -48,7 +48,7 @@
           </li>
         <% end %>
       </ol>
-      <p class="mt-5">
+      <p class="mt-1">
         <strong>
           <%= link_to ' See all Fruits', fruits_path %>
         </strong>

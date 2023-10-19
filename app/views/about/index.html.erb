@@ -4,20 +4,19 @@
   <%= render 'shared/navbar' %>
   <%= yield %>
   <h2>About</h2>
-  <section>
+  <div class="d-flex justify-content-center">
+    <%= image_tag "ERD.jpg", height: 300, alt: "ERD" %>
+  </div>
+  <div class="mt-5">
     <p>
       For this project our Database will be pulling from 3 Sources from a One Piece API: https://api-onepiece.com/
-      - The Characters: https://api-onepiece.com/documentation/13-character
       <br>
-      - The Crews: https://api-onepiece.com/documentation/12-crew
+      The Characters: https://api-onepiece.com/documentation/13-character
       <br>
-      - The Fruits: https://api-onepiece.com/documentation/2-fruit
+      The Crews: https://api-onepiece.com/documentation/12-crew
       <br>
-      In terms of table relation we can start first with the Crews Table. This table is needed as it will connected to the Characters
-      table via Foreign Key (crew_id) so that users can see which Crew a Character is under. The Fruits table is needed as it provides
-      information on the Fruits that provide our characters their abilities/superpowers. We can see which Fruit belongs to which
-      character via Foreign Key (character_id). The Characters table is needed as both the Crews and Fruits tables are connected to it.
-      It is also the table with the most info and the highlight of the website.
+      The Fruits: https://api-onepiece.com/documentation/2-fruit
+      <br>
     </p>
-  </section>
+  </div>
 </body>
