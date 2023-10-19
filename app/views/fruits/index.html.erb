@@ -1,7 +1,19 @@
 <%= stylesheet_link_tag 'application', media: 'all' %>
-<h2 class="title is-2 mt-3 ml-3">Fruits</h2>
+<h1>One Piece DB</h1>
 <body>
   <%= render 'shared/navbar' %>
   <%= yield %>
+  <h2>Fruits</h2>
+  <p>This is a list of Fruits in One Piece</p>
+  <ol class="custom-list">
+    <% @fruits.each do |fruit| %>
+      <li>
+        <%= @fruit_number_offset + 1 %> <%= link_to fruit.name, fruit %>
+      </li>
+      <% @fruit_number_offset += 1 %>
+    <% end %>
+  </ol>
+
+  <%= paginate @fruits %>
 </body>
-<p>Find me in app/views/fruits/index.html.erb</p>
+

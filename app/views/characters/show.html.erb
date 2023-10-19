@@ -1,2 +1,12 @@
-<h1>Characters</h1>
-<p>Find me in app/views/characters/show.html.erb</p>
+<h1>One Piece DB</h1>
+<body>
+  <%= render 'shared/navbar' %>
+  <%= yield %>
+<h3><%= @character.name %></h3>
+<p>Crew: <%= link_to @character.crew.name, @character.crew %></p>
+<p>Job: <%= @character.job %></p>
+<p>Height: <%= @character.size %></p>
+<p>Age: <%= @character.age %></p>
+<p>Bounty: <%= @character.bounty %></p>
+<p>Status: <%= @character.status %></p>
+</body>

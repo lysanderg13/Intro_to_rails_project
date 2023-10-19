@@ -48,6 +48,9 @@ gem "bootsnap", require: false
 # Bootstrap
 gem 'bootstrap', '~> 5.3.1'
 
+# JQuery
+gem 'jquery-rails'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
