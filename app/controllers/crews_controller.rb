@@ -1,6 +1,6 @@
 class CrewsController < ApplicationController
   def index
-    @crews = Crew.all.order("id ASC")
+    @crews = Crew.includes(:characters).all.order("id ASC")
   end
 
   def show
