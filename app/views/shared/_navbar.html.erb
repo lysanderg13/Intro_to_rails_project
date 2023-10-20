@@ -24,7 +24,7 @@
         </ul>
         <%= form_tag search_path, method: :get, class: "d-flex", role: "search" do %>
           <%= text_field_tag :search, params[:search], class: "form-control me-2", type: "search", placeholder: "Search", aria: { label: "Search" } %>
-          <%= select_tag :category, options_for_select([['Select Category', ''], ['Characters', 'character'], ['Crew', 'crew'], ['Fruits', 'fruit']], params[:category]), class: "form-select me-2", aria: { label: "Options" } %>
+          <%= select_tag :category, options_for_select([['Select Category', ''], ['Characters', 'character'], ['Crew', 'crews'], ['Fruits', 'fruit']], params[:category]), class: "form-select me-2", aria: { label: "Options" } %>
           <%= submit_tag "Search", class: "btn btn-outline-success", type: "submit" %>
         <% end %>
       </div>
