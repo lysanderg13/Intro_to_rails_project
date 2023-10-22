@@ -6,27 +6,35 @@
 </body>
 
 <% if @query.present? %>
+  <!-- Display search results header -->
   <h2>Search Results for "<%= @query %>":</h2>
 
-  <% if @characters.present? && params[:category] == 'character' %>
+  <!-- Display characters if present and either no category is selected or category is character -->
+  <% if @characters.present? && (!params[:category].present? || params[:category] == 'character') %>
     <h2>Characters:</h2>
     <% @characters.each do |character| %>
-      <p><%= character.name %></p>
+      <p><%= link_to character.name, character %></p>
     <% end %>
-  <% elsif @crews.present? && params[:category] == 'crew' %>
+  <% end %>
+
+  <!-- Display crews if present and either no category is selected or category is crew -->
+  <% if @crews.present? && (!params[:category].present? || params[:category] == 'crew') %>
     <h2>Crews:</h2>
     <% @crews.each do |crew| %>
-      <p><%= crew.name %></p>
+      <p><%= link_to crew.name, crew %></p>
     <% end %>
-  <% elsif @fruits.present? && params[:category] == 'fruit' %>
+  <% end %>
+
+  <!-- Display fruits if present and either no category is selected or category is fruit -->
+  <% if @fruits.present? && (!params[:category].present? || params[:category] == 'fruit') %>
     <h2>Fruits:</h2>
     <% @fruits.each do |fruit| %>
-      <p><%= fruit.name %></p>
+      <p><%= link_to fruit.name, fruit %></p>
     <% end %>
-  <% else %>
-    <p>No results found.</p>
   <% end %>
-<% else %>
+
+<% elsif !@characters.present? && !@crews.present? && !@fruits.present?%>
+<% else%>
+  <!-- Display message if nothing was queried -->
   <h2>Nothing was queried. Please try again and input something!</h2>
 <% end %>
-
