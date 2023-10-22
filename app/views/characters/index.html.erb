@@ -1,6 +1,5 @@
 <%= stylesheet_link_tag 'application', media: 'all' %>
 <h1>One Piece DB</h1>
-<body>
   <%= render 'shared/navbar' %>
   <%= yield %>
   <h2>Characters</h2>
@@ -13,6 +12,4 @@
       <% @character_number_offset += 1 %>
     <% end %>
   </ol>
-
   <%= paginate @characters %>
-</body>

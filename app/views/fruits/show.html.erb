@@ -1,10 +1,8 @@
 <h1>One Piece DB</h1>
-<body>
   <%= render 'shared/navbar' %>
   <%= yield %>
 <h3><%= @fruit.roman_name %></h3>
 <p>Fruit Type: <%= @fruit.fruit_type %></p>
 <p>Description: <%= @fruit.description %></p>
 <p>User: <%= link_to @fruit.character.name, @fruit.character %></p>
-</body>
 
