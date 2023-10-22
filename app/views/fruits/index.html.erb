@@ -12,5 +12,5 @@
       <% @fruit_number_offset += 1 %>
     <% end %>
   </ol>
-  <%= paginate @fruits %>
+<%= paginate @fruits, views: 'kaminari/custom_views' %>
 

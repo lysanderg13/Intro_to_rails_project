@@ -12,4 +12,4 @@
       <% @character_number_offset += 1 %>
     <% end %>
   </ol>
-  <%= paginate @characters %>
+<%= paginate @characters, views: 'kaminari/custom_views' %>
